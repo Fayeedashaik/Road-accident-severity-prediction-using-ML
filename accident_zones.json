@@ -1,0 +1,30 @@
+[
+  {
+    "id": "zone_1",
+    "name": "MG Road Junction",
+    "latitude": 12.9751,
+    "longitude": 77.6065,
+    "riskLevel": "high"
+  },
+  {
+    "id": "zone_2",
+    "name": "Airport Road Curve",
+    "latitude": 12.9978,
+    "longitude": 77.6822,
+    "riskLevel": "medium"
+  },
+  {
+    "id": "zone_3",
+    "name": "Outer Ring Road Crossing",
+    "latitude": 12.9279,
+    "longitude": 77.6271,
+    "riskLevel": "low"
+  },
+  {
+    "id": "zone_4",
+    "name": "City Flyover Entry",
+    "latitude": 12.9611,
+    "longitude": 77.6387,
+    "riskLevel": "high"
+  }
+]

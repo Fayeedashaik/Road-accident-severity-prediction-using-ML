@@ -1,0 +1,2001 @@
+Weather_Conditions,Road_Type,Speed_Limit,Light_Conditions,Time_of_Day,Number_of_Vehicles,Driver_Age,Accident_Severity
+Clear,One Way,70,Dawn/Dusk,Evening,5,28.0,Fatal
+Windy,Roundabout,40,Darkness - no lighting,Night,2,78.0,Fatal
+Fog,One Way,60,Darkness - no lighting,Evening,1,71.0,Fatal
+Rain,Dual Carriageway,20,Darkness - no lighting,Afternoon,1,37.0,Serious
+Clear,Dual Carriageway,50,Daylight,Morning,5,53.0,Serious
+Clear,Single Carriageway,30,Darkness - no lighting,Evening,4,22.0,Fatal
+Clear,Slip Road,70,Darkness - lights lit,Night,1,23.0,Serious
+Snow,One Way,70,Darkness - no lighting,Afternoon,1,42.0,Fatal
+Rain,Single Carriageway,50,Dawn/Dusk,Morning,5,58.0,Fatal
+Fog,Slip Road,50,Dawn/Dusk,Night,3,64.0,Serious
+Clear,One Way,20,Dawn/Dusk,Night,2,,Serious
+Windy,Roundabout,60,,Night,1,25.0,Serious
+Snow,One Way,40,Darkness - lights lit,Evening,3,43.0,Fatal
+Clear,Dual Carriageway,70,Darkness - no lighting,Afternoon,4,20.0,Fatal
+Clear,Dual Carriageway,70,,Night,3,37.0,Serious
+Clear,Roundabout,50,Darkness - lights lit,Evening,5,47.0,Fatal
+Clear,Single Carriageway,60,Dawn/Dusk,Afternoon,4,37.0,Fatal
+Rain,Slip Road,70,Dawn/Dusk,Afternoon,4,56.0,Serious
+Rain,One Way,40,Dawn/Dusk,Evening,3,41.0,Serious
+Clear,Dual Carriageway,50,Daylight,Evening,5,55.0,Serious
+Rain,Single Carriageway,40,Darkness - lights lit,Night,1,,Serious
+Clear,Roundabout,60,Darkness - lights lit,Afternoon,3,69.0,Fatal
+,Dual Carriageway,70,Daylight,Morning,1,51.0,Minor
+Clear,Roundabout,30,Daylight,Evening,3,65.0,Minor
+Rain,One Way,70,Daylight,Afternoon,1,59.0,Serious
+Fog,Slip Road,60,Darkness - lights lit,Afternoon,3,57.0,Fatal
+Clear,Dual Carriageway,70,Darkness - lights lit,Night,4,53.0,Serious
+Rain,Dual Carriageway,70,Dawn/Dusk,Morning,2,73.0,Serious
+Rain,One Way,20,Dawn/Dusk,Night,4,58.0,Serious
+Clear,Single Carriageway,70,Darkness - lights lit,Morning,1,63.0,Serious
+Rain,Slip Road,70,Dawn/Dusk,Morning,5,44.0,Fatal
+Clear,Dual Carriageway,40,Daylight,Evening,4,77.0,Serious
+Clear,Slip Road,30,Darkness - no lighting,Afternoon,2,30.0,Serious
+Windy,Dual Carriageway,40,Dawn/Dusk,Afternoon,1,20.0,Serious
+Windy,Slip Road,40,Darkness - lights lit,Afternoon,4,69.0,Fatal
+,Roundabout,50,Dawn/Dusk,Morning,3,36.0,Fatal
+Clear,Dual Carriageway,20,Dawn/Dusk,Afternoon,5,50.0,Minor
+Clear,Slip Road,40,Dawn/Dusk,Evening,1,28.0,Serious
+Fog,Single Carriageway,60,Darkness - no lighting,Morning,4,49.0,Fatal
+Rain,Roundabout,60,Daylight,Morning,1,40.0,Serious
+Clear,Roundabout,70,Darkness - lights lit,Morning,3,36.0,Serious
+Rain,Single Carriageway,50,Darkness - no lighting,Morning,2,21.0,Fatal
+Clear,Slip Road,20,Darkness - lights lit,Evening,4,54.0,Serious
+Windy,One Way,20,Darkness - lights lit,Afternoon,1,46.0,Minor
+Clear,Single Carriageway,70,Darkness - lights lit,Evening,1,40.0,Serious
+Fog,Slip Road,60,Darkness - no lighting,Afternoon,1,59.0,Fatal
+Clear,Single Carriageway,30,Daylight,Evening,2,56.0,Minor
+Rain,Single Carriageway,50,Darkness - lights lit,Night,1,23.0,Fatal
+Rain,Dual Carriageway,70,Daylight,Night,5,52.0,Fatal
+Clear,Slip Road,50,Daylight,Night,5,54.0,Serious
+,One Way,60,Dawn/Dusk,Night,1,32.0,Serious
+,Dual Carriageway,60,Darkness - no lighting,Morning,5,68.0,Fatal
+Windy,Single Carriageway,30,Darkness - no lighting,Morning,4,31.0,Fatal
+Snow,Single Carriageway,30,Dawn/Dusk,Evening,5,62.0,Serious
+Rain,Single Carriageway,20,,Evening,1,39.0,Minor
+Windy,Slip Road,50,Daylight,Night,3,28.0,Serious
+Clear,Slip Road,50,Darkness - lights lit,Afternoon,4,45.0,Serious
+Clear,Dual Carriageway,60,Darkness - no lighting,Night,2,60.0,Serious
+Clear,One Way,20,Darkness - lights lit,Evening,1,,Minor
+Clear,Dual Carriageway,70,Darkness - lights lit,Night,2,31.0,Serious
+Clear,Roundabout,50,Dawn/Dusk,Evening,3,45.0,Serious
+Clear,Single Carriageway,20,Darkness - lights lit,Night,2,61.0,Minor
+Snow,Single Carriageway,20,Daylight,Afternoon,1,59.0,Minor
+Clear,Single Carriageway,60,Dawn/Dusk,Night,1,78.0,Serious
+Clear,Dual Carriageway,20,Darkness - lights lit,Afternoon,3,65.0,Serious
+Rain,Dual Carriageway,30,Dawn/Dusk,Afternoon,1,37.0,Minor
+Clear,Single Carriageway,30,Daylight,Evening,3,31.0,Minor
+Snow,Dual Carriageway,40,Daylight,Afternoon,3,30.0,Serious
+Clear,Slip Road,60,Darkness - lights lit,Morning,1,58.0,Serious
+Windy,Slip Road,70,Dawn/Dusk,Morning,5,60.0,Fatal
+Fog,Dual Carriageway,40,Darkness - lights lit,Morning,3,32.0,Serious
+Clear,Single Carriageway,30,Darkness - lights lit,Evening,1,31.0,Serious
+Clear,Dual Carriageway,40,,Morning,5,58.0,Serious
+Snow,Dual Carriageway,60,,Evening,3,79.0,Fatal
+Fog,Dual Carriageway,60,Daylight,Evening,5,20.0,Fatal
+Fog,Roundabout,20,Dawn/Dusk,Morning,4,43.0,Serious
+Fog,Slip Road,50,Dawn/Dusk,Afternoon,4,39.0,Fatal
+Clear,One Way,20,Dawn/Dusk,Night,5,45.0,Serious
+Clear,One Way,60,Dawn/Dusk,Evening,3,57.0,Serious
+Clear,Roundabout,30,Darkness - lights lit,Morning,1,69.0,Serious
+Snow,Dual Carriageway,70,Darkness - lights lit,Evening,2,68.0,Fatal
+Rain,Roundabout,30,Daylight,Afternoon,1,79.0,Minor
+Clear,Roundabout,20,Darkness - no lighting,Afternoon,2,25.0,Serious
+Clear,Single Carriageway,70,Darkness - no lighting,Morning,2,69.0,Fatal
+Clear,Slip Road,60,Daylight,Evening,3,73.0,Serious
+Clear,One Way,30,Darkness - no lighting,Night,5,72.0,Serious
+Fog,Dual Carriageway,60,Daylight,Night,1,,Serious
+Rain,One Way,70,Darkness - lights lit,Evening,5,59.0,Fatal
+Snow,One Way,70,Dawn/Dusk,Evening,4,59.0,Fatal
+Rain,Slip Road,30,,Evening,3,23.0,Serious
+Clear,One Way,60,Darkness - lights lit,Morning,3,69.0,Fatal
+Fog,One Way,40,Dawn/Dusk,Afternoon,4,58.0,Fatal
+Fog,Roundabout,60,Dawn/Dusk,Night,1,20.0,Serious
+Rain,Slip Road,70,Darkness - no lighting,Morning,4,21.0,Fatal
+Fog,Single Carriageway,60,Darkness - lights lit,Evening,1,21.0,Fatal
+Rain,Dual Carriageway,20,Darkness - no lighting,Evening,2,27.0,Serious
+Rain,One Way,40,Darkness - no lighting,Afternoon,3,79.0,Serious
+Rain,Dual Carriageway,50,Dawn/Dusk,Evening,1,57.0,Minor
+,Single Carriageway,20,Dawn/Dusk,Morning,5,44.0,Serious
+,Dual Carriageway,50,,Morning,5,32.0,Serious
+Clear,Single Carriageway,30,Dawn/Dusk,Afternoon,3,57.0,Minor
+Rain,Roundabout,50,,Morning,4,70.0,Fatal
+Clear,One Way,60,Darkness - lights lit,Night,4,46.0,Fatal
+Rain,Single Carriageway,50,Dawn/Dusk,Morning,1,20.0,Serious
+Windy,Dual Carriageway,70,Darkness - no lighting,Morning,4,79.0,Fatal
+Clear,One Way,20,Darkness - lights lit,Morning,3,18.0,Serious
+Rain,Roundabout,20,Dawn/Dusk,Night,1,62.0,Serious
+Fog,One Way,50,Daylight,Evening,2,19.0,Serious
+Clear,Single Carriageway,20,Darkness - lights lit,Morning,4,66.0,Fatal
+Clear,Roundabout,70,Darkness - lights lit,Afternoon,4,37.0,Fatal
+Clear,Dual Carriageway,20,Daylight,Night,1,22.0,Minor
+Clear,Roundabout,50,,Afternoon,5,59.0,Serious
+Windy,Roundabout,40,Dawn/Dusk,Morning,4,69.0,Serious
+Snow,Slip Road,40,,Afternoon,3,34.0,Serious
+Rain,Roundabout,30,Darkness - lights lit,Morning,4,60.0,Serious
+Snow,Roundabout,20,Dawn/Dusk,Night,2,21.0,Fatal
+Snow,One Way,50,,Afternoon,4,25.0,Fatal
+Clear,Dual Carriageway,20,Darkness - no lighting,Afternoon,5,36.0,Serious
+Snow,One Way,60,Darkness - lights lit,Morning,4,44.0,Fatal
+Rain,One Way,70,Darkness - lights lit,Morning,1,42.0,Serious
+Snow,Single Carriageway,20,Daylight,Evening,4,34.0,Serious
+Snow,One Way,20,Darkness - no lighting,Morning,5,35.0,Serious
+Clear,Slip Road,40,Dawn/Dusk,Morning,1,19.0,Serious
+Clear,Slip Road,70,Darkness - no lighting,Evening,3,25.0,Serious
+Clear,Single Carriageway,50,Dawn/Dusk,Morning,1,52.0,Minor
+Rain,Dual Carriageway,20,Dawn/Dusk,Morning,2,47.0,Serious
+Snow,Dual Carriageway,40,Darkness - no lighting,Evening,1,65.0,Serious
+Snow,One Way,30,Darkness - lights lit,Night,3,33.0,Fatal
+Clear,One Way,70,Dawn/Dusk,Night,4,79.0,Serious
+Rain,One Way,40,Darkness - no lighting,Morning,1,71.0,Serious
+Rain,Dual Carriageway,40,Daylight,Morning,1,39.0,Serious
+Clear,Roundabout,40,Darkness - no lighting,Evening,1,50.0,Serious
+Clear,Slip Road,20,Daylight,Evening,1,57.0,Minor
+,Roundabout,20,Dawn/Dusk,Night,3,57.0,Minor
+Windy,Roundabout,30,Darkness - no lighting,Afternoon,5,21.0,Serious
+Clear,Dual Carriageway,60,Darkness - no lighting,Morning,5,31.0,Fatal
+Rain,Roundabout,60,Daylight,Afternoon,1,63.0,Serious
+Fog,Single Carriageway,60,,Afternoon,3,19.0,Fatal
+Clear,One Way,70,,Evening,3,35.0,Serious
+Windy,Single Carriageway,70,Dawn/Dusk,Morning,1,44.0,Serious
+Windy,Slip Road,30,Darkness - no lighting,Morning,2,19.0,Serious
+,One Way,70,Darkness - lights lit,Evening,1,54.0,Serious
+Rain,Roundabout,60,Daylight,Afternoon,2,20.0,Serious
+,Slip Road,60,Darkness - no lighting,Evening,1,40.0,Serious
+Clear,One Way,40,Daylight,Night,2,,Minor
+Clear,Roundabout,70,Daylight,Morning,2,61.0,Serious
+Rain,Single Carriageway,20,,Night,1,75.0,Serious
+Rain,One Way,20,Darkness - no lighting,Evening,2,61.0,Serious
+Clear,Roundabout,40,Darkness - no lighting,Morning,4,75.0,Fatal
+Clear,Single Carriageway,40,Daylight,Night,5,27.0,Minor
+Windy,Slip Road,40,Darkness - lights lit,Night,3,53.0,Fatal
+Clear,Slip Road,20,Daylight,Afternoon,2,17.0,Minor
+Clear,Slip Road,60,Darkness - lights lit,Morning,2,25.0,Fatal
+Rain,Slip Road,40,Daylight,Night,3,,Minor
+Windy,Dual Carriageway,30,Dawn/Dusk,Night,2,70.0,Serious
+Clear,One Way,40,Daylight,Afternoon,3,17.0,Serious
+Fog,One Way,50,Daylight,Night,1,19.0,Serious
+Fog,Dual Carriageway,40,Darkness - no lighting,Night,4,63.0,Fatal
+,Roundabout,20,Darkness - lights lit,Night,4,42.0,Serious
+Fog,Roundabout,70,Dawn/Dusk,Afternoon,5,69.0,Fatal
+Clear,Slip Road,40,Darkness - lights lit,Night,2,47.0,Serious
+Rain,Single Carriageway,70,Dawn/Dusk,Night,5,42.0,Serious
+,Roundabout,50,Daylight,Morning,1,39.0,Minor
+Rain,Single Carriageway,30,Darkness - no lighting,Morning,4,46.0,Serious
+Clear,One Way,70,Darkness - no lighting,Afternoon,1,26.0,Serious
+Snow,Single Carriageway,60,Darkness - lights lit,Evening,1,24.0,Fatal
+Clear,One Way,40,,Morning,2,60.0,Serious
+Clear,Dual Carriageway,50,Darkness - lights lit,Afternoon,1,41.0,Minor
+Clear,Dual Carriageway,50,Darkness - lights lit,Night,4,38.0,Fatal
+Rain,Slip Road,70,,Night,5,31.0,Fatal
+Fog,Roundabout,30,Darkness - lights lit,Afternoon,4,75.0,Fatal
+Clear,Slip Road,20,Dawn/Dusk,Night,2,57.0,Minor
+Rain,One Way,40,Darkness - no lighting,Night,4,,Fatal
+Clear,Slip Road,50,Darkness - lights lit,Evening,3,73.0,Serious
+Rain,Single Carriageway,30,Darkness - lights lit,Night,5,26.0,Serious
+Clear,One Way,60,Daylight,Morning,3,36.0,Minor
+,Dual Carriageway,50,Darkness - lights lit,Night,3,57.0,Fatal
+Clear,Roundabout,30,Darkness - lights lit,Afternoon,2,63.0,Minor
+,One Way,20,Daylight,Evening,1,,Minor
+Clear,One Way,20,Daylight,Night,3,69.0,Minor
+Clear,Single Carriageway,50,Darkness - no lighting,Afternoon,4,69.0,Fatal
+Clear,Roundabout,50,Darkness - lights lit,Morning,1,17.0,Serious
+Windy,Dual Carriageway,70,Darkness - no lighting,Night,4,18.0,Fatal
+Snow,One Way,40,Darkness - no lighting,Evening,4,74.0,Fatal
+Clear,One Way,30,Daylight,Night,1,35.0,Minor
+,Single Carriageway,50,Dawn/Dusk,Afternoon,1,,Serious
+Snow,Slip Road,40,Darkness - no lighting,Evening,4,30.0,Fatal
+Rain,Dual Carriageway,70,Dawn/Dusk,Night,2,24.0,Fatal
+Rain,Roundabout,40,Darkness - lights lit,Morning,5,,Fatal
+Clear,One Way,50,Daylight,Evening,5,28.0,Serious
+Clear,One Way,20,Darkness - lights lit,Morning,2,42.0,Serious
+Snow,Dual Carriageway,30,Darkness - lights lit,Afternoon,1,43.0,Serious
+Windy,Slip Road,30,Daylight,Night,4,45.0,Minor
+Rain,One Way,20,Darkness - lights lit,Morning,5,31.0,Serious
+Clear,Dual Carriageway,50,Daylight,Afternoon,4,62.0,Serious
+Clear,Single Carriageway,30,Dawn/Dusk,Night,2,69.0,Serious
+Fog,Slip Road,50,Darkness - lights lit,Afternoon,4,77.0,Fatal
+Snow,Roundabout,70,,Morning,2,17.0,Fatal
+Snow,One Way,50,Darkness - no lighting,Afternoon,1,76.0,Serious
+Fog,Dual Carriageway,40,Darkness - lights lit,Evening,2,59.0,Fatal
+Rain,Single Carriageway,20,Dawn/Dusk,Night,2,44.0,Serious
+Clear,Roundabout,50,Daylight,Afternoon,5,73.0,Serious
+Clear,Dual Carriageway,70,Darkness - lights lit,Morning,4,19.0,Fatal
+Snow,Dual Carriageway,60,Darkness - lights lit,Night,5,67.0,Fatal
+,Roundabout,20,Darkness - lights lit,Evening,3,34.0,Serious
+Clear,Single Carriageway,30,Dawn/Dusk,Night,2,68.0,Minor
+Clear,Single Carriageway,40,Daylight,Evening,3,76.0,Serious
+Fog,Slip Road,30,Darkness - no lighting,Night,5,50.0,Fatal
+Clear,One Way,70,Darkness - no lighting,Afternoon,4,48.0,Fatal
+Clear,Roundabout,70,Darkness - no lighting,Afternoon,5,45.0,Serious
+Rain,Roundabout,30,Daylight,Morning,4,41.0,Serious
+Fog,Roundabout,20,Darkness - no lighting,Evening,4,,Fatal
+Fog,Single Carriageway,30,Dawn/Dusk,Morning,1,42.0,Serious
+Clear,One Way,50,Daylight,Afternoon,2,55.0,Minor
+Fog,Slip Road,30,Darkness - lights lit,Evening,5,24.0,Fatal
+Clear,Dual Carriageway,40,Dawn/Dusk,Morning,4,35.0,Serious
+Clear,Dual Carriageway,40,Darkness - lights lit,Morning,5,70.0,Fatal
+Fog,Roundabout,60,Darkness - no lighting,Morning,5,63.0,Fatal
+Rain,One Way,40,Dawn/Dusk,Morning,4,58.0,Serious
+Snow,Single Carriageway,30,Daylight,Morning,3,38.0,Serious
+Fog,One Way,40,Dawn/Dusk,Evening,2,45.0,Fatal
+Rain,One Way,20,Darkness - lights lit,Morning,2,49.0,Serious
+Clear,Single Carriageway,40,Daylight,Evening,1,54.0,Minor
+Clear,Roundabout,50,Dawn/Dusk,Morning,1,61.0,Serious
+,One Way,20,Dawn/Dusk,Afternoon,1,62.0,Minor
+Clear,Dual Carriageway,60,Dawn/Dusk,Afternoon,2,,Serious
+Windy,Single Carriageway,50,Dawn/Dusk,Morning,3,59.0,Serious
+Clear,Slip Road,30,Daylight,Night,2,19.0,Minor
+Snow,Roundabout,30,Darkness - lights lit,Afternoon,2,35.0,Serious
+Rain,Single Carriageway,30,Dawn/Dusk,Evening,2,26.0,Serious
+Fog,Slip Road,50,Daylight,Morning,2,43.0,Serious
+Rain,Slip Road,50,Darkness - lights lit,Evening,3,31.0,Serious
+Rain,One Way,50,Dawn/Dusk,Night,1,27.0,Serious
+Rain,One Way,20,,Morning,5,,Serious
+Clear,One Way,70,Darkness - lights lit,Afternoon,1,42.0,Serious
+Fog,Single Carriageway,20,Daylight,Evening,1,75.0,Serious
+,Single Carriageway,30,Darkness - lights lit,Afternoon,5,40.0,Serious
+Clear,Roundabout,70,,Afternoon,2,29.0,Serious
+Rain,One Way,40,Dawn/Dusk,Morning,3,48.0,Serious
+Clear,Slip Road,30,Darkness - lights lit,Evening,3,53.0,Serious
+Windy,Dual Carriageway,60,Darkness - lights lit,Night,1,20.0,Fatal
+Windy,Roundabout,20,Darkness - no lighting,Afternoon,5,29.0,Fatal
+Windy,Single Carriageway,50,Dawn/Dusk,Morning,4,25.0,Serious
+Clear,Roundabout,20,Dawn/Dusk,Morning,2,73.0,Serious
+Clear,Roundabout,50,Darkness - no lighting,Night,1,65.0,Serious
+Windy,Roundabout,70,Darkness - no lighting,Morning,3,,Fatal
+Rain,Roundabout,60,Daylight,Afternoon,5,72.0,Serious
+Windy,Dual Carriageway,70,Daylight,Morning,5,53.0,Serious
+Windy,One Way,60,Darkness - lights lit,Evening,1,,Fatal
+Snow,Slip Road,20,,Evening,4,23.0,Fatal
+Clear,Roundabout,50,Darkness - lights lit,Afternoon,3,17.0,Fatal
+Clear,Roundabout,70,Darkness - lights lit,Evening,1,76.0,Fatal
+Snow,Roundabout,60,Daylight,Night,4,74.0,Fatal
+Clear,One Way,30,Dawn/Dusk,Morning,5,28.0,Serious
+Clear,Single Carriageway,30,Darkness - lights lit,Afternoon,2,37.0,Minor
+Rain,Single Carriageway,70,Dawn/Dusk,Night,3,27.0,Fatal
+,Dual Carriageway,50,Darkness - lights lit,Morning,3,60.0,Serious
+Fog,Single Carriageway,70,Darkness - no lighting,Night,4,67.0,Fatal
+Rain,Roundabout,20,Darkness - lights lit,Afternoon,1,74.0,Serious
+Clear,Roundabout,60,Darkness - lights lit,Afternoon,5,60.0,Serious
+Rain,Roundabout,20,Darkness - lights lit,Night,4,60.0,Serious
+Windy,Dual Carriageway,30,Daylight,Morning,2,30.0,Minor
+,Roundabout,60,Darkness - no lighting,Evening,2,50.0,Serious
+Rain,Single Carriageway,70,,Evening,2,50.0,Serious
+Snow,One Way,20,,Night,4,41.0,Fatal
+Fog,One Way,40,Dawn/Dusk,Afternoon,5,77.0,Fatal
+Fog,Slip Road,50,Darkness - no lighting,Morning,3,20.0,Fatal
+Fog,Single Carriageway,50,Darkness - lights lit,Morning,1,68.0,Fatal
+Clear,Roundabout,40,Dawn/Dusk,Afternoon,3,71.0,Serious
+Clear,One Way,30,Dawn/Dusk,Evening,5,42.0,Serious
+Snow,Single Carriageway,60,Daylight,Morning,3,32.0,Serious
+Snow,One Way,50,Dawn/Dusk,Night,4,26.0,Serious
+Snow,Roundabout,40,Darkness - lights lit,Evening,2,61.0,Fatal
+Windy,One Way,70,Daylight,Night,5,18.0,Fatal
+Rain,Slip Road,40,Daylight,Evening,5,51.0,Serious
+Rain,Slip Road,30,Darkness - lights lit,Afternoon,3,35.0,Serious
+Fog,One Way,30,Darkness - no lighting,Night,4,22.0,Fatal
+Rain,Single Carriageway,20,Dawn/Dusk,Night,3,35.0,Serious
+Fog,Single Carriageway,50,Daylight,Afternoon,3,,Serious
+Fog,Single Carriageway,20,Darkness - no lighting,Night,5,69.0,Fatal
+Snow,One Way,40,Darkness - lights lit,Evening,3,68.0,Fatal
+Clear,Single Carriageway,60,Dawn/Dusk,Morning,2,67.0,Serious
+Clear,Roundabout,60,Dawn/Dusk,Morning,3,24.0,Fatal
+Clear,Slip Road,30,Daylight,Afternoon,2,30.0,Minor
+Rain,Roundabout,60,Dawn/Dusk,Evening,5,26.0,Serious
+Clear,Single Carriageway,60,Dawn/Dusk,Night,4,19.0,Serious
+Rain,Roundabout,60,Dawn/Dusk,Night,2,54.0,Serious
+Rain,Single Carriageway,40,Dawn/Dusk,Morning,4,45.0,Serious
+Clear,One Way,60,Darkness - lights lit,Night,4,31.0,Serious
+Rain,Roundabout,70,Darkness - no lighting,Morning,2,39.0,Fatal
+Clear,One Way,60,Darkness - lights lit,Afternoon,5,39.0,Serious
+,One Way,60,Darkness - lights lit,Night,1,34.0,Serious
+Snow,Dual Carriageway,20,Daylight,Evening,4,62.0,Serious
+Clear,Single Carriageway,40,,Night,4,35.0,Serious
+Clear,Slip Road,30,Darkness - lights lit,Morning,5,44.0,Serious
+Rain,Single Carriageway,20,Dawn/Dusk,Afternoon,5,42.0,Serious
+Fog,Slip Road,50,Darkness - lights lit,Morning,3,,Fatal
+Clear,Single Carriageway,40,Darkness - lights lit,Night,5,63.0,Fatal
+Rain,One Way,70,Daylight,Morning,4,20.0,Fatal
+Clear,Roundabout,40,Darkness - no lighting,Morning,2,71.0,Serious
+Clear,Roundabout,50,Darkness - no lighting,Afternoon,1,18.0,Serious
+Rain,Dual Carriageway,50,Darkness - lights lit,Evening,3,19.0,Fatal
+Rain,Slip Road,50,Daylight,Night,2,23.0,Serious
+Rain,Slip Road,30,Dawn/Dusk,Afternoon,1,71.0,Serious
+Fog,Slip Road,60,Dawn/Dusk,Evening,1,32.0,Fatal
+Windy,One Way,40,Darkness - lights lit,Morning,1,47.0,Serious
+Rain,Slip Road,60,Darkness - no lighting,Evening,2,26.0,Serious
+Clear,Roundabout,60,Daylight,Morning,3,35.0,Serious
+Fog,One Way,70,Darkness - no lighting,Morning,3,44.0,Fatal
+Clear,Single Carriageway,50,Dawn/Dusk,Afternoon,1,33.0,Minor
+Rain,Slip Road,30,Darkness - no lighting,Morning,2,44.0,Serious
+Clear,Slip Road,70,Dawn/Dusk,Afternoon,1,35.0,Serious
+Clear,Single Carriageway,20,,Evening,5,53.0,Serious
+Windy,Slip Road,30,Daylight,Evening,3,39.0,Minor
+Snow,Single Carriageway,60,Darkness - lights lit,Morning,4,36.0,Fatal
+Fog,One Way,30,Darkness - lights lit,Afternoon,1,29.0,Serious
+Rain,Roundabout,50,Darkness - no lighting,Morning,5,29.0,Fatal
+Clear,Single Carriageway,20,Daylight,Afternoon,3,59.0,Minor
+Clear,Dual Carriageway,50,Daylight,Afternoon,2,27.0,Minor
+Clear,Single Carriageway,20,Darkness - lights lit,Afternoon,3,64.0,Serious
+,Slip Road,70,Dawn/Dusk,Evening,2,31.0,Fatal
+Fog,One Way,60,Darkness - no lighting,Afternoon,2,33.0,Fatal
+Fog,One Way,20,Darkness - no lighting,Evening,1,70.0,Serious
+Clear,Single Carriageway,20,Darkness - lights lit,Afternoon,1,66.0,Serious
+Windy,Roundabout,20,Daylight,Evening,3,44.0,Minor
+,Dual Carriageway,30,Darkness - lights lit,Night,5,35.0,Fatal
+Rain,One Way,70,,Evening,3,20.0,Fatal
+Rain,Slip Road,30,Darkness - lights lit,Evening,4,38.0,Fatal
+Rain,Slip Road,60,Darkness - lights lit,Morning,2,38.0,Fatal
+Clear,Roundabout,20,Dawn/Dusk,Afternoon,2,71.0,Serious
+Clear,One Way,70,Dawn/Dusk,Night,1,53.0,Serious
+Fog,Single Carriageway,70,Daylight,Morning,5,55.0,Fatal
+Clear,Slip Road,40,Darkness - lights lit,Afternoon,1,50.0,Serious
+Clear,Roundabout,60,Dawn/Dusk,Night,4,49.0,Serious
+Clear,One Way,70,Daylight,Night,3,60.0,Minor
+Clear,One Way,20,Darkness - lights lit,Night,3,58.0,Minor
+Snow,One Way,20,Darkness - no lighting,Afternoon,5,,Serious
+Fog,One Way,70,Dawn/Dusk,Night,1,,Serious
+Rain,One Way,30,Daylight,Night,1,28.0,Minor
+Clear,Slip Road,60,Darkness - no lighting,Morning,4,18.0,Fatal
+Rain,Roundabout,20,Darkness - lights lit,Evening,3,75.0,Fatal
+Rain,One Way,70,Darkness - lights lit,Afternoon,1,44.0,Fatal
+Clear,Dual Carriageway,20,,Evening,5,26.0,Serious
+Rain,Dual Carriageway,70,Dawn/Dusk,Morning,3,38.0,Fatal
+Clear,Roundabout,60,Daylight,Evening,4,33.0,Serious
+Rain,Single Carriageway,70,,Night,5,42.0,Fatal
+Rain,Single Carriageway,40,Daylight,Night,2,19.0,Serious
+Clear,Single Carriageway,70,Dawn/Dusk,Afternoon,4,23.0,Fatal
+Clear,Dual Carriageway,70,Daylight,Afternoon,5,60.0,Serious
+Rain,Single Carriageway,60,Dawn/Dusk,Afternoon,1,24.0,Fatal
+Rain,Slip Road,70,Darkness - lights lit,Morning,2,36.0,Fatal
+Snow,One Way,60,Darkness - no lighting,Afternoon,4,,Fatal
+Fog,Dual Carriageway,40,Darkness - lights lit,Morning,1,51.0,Fatal
+Clear,Roundabout,60,Daylight,Night,2,33.0,Serious
+Clear,Roundabout,20,Darkness - lights lit,Evening,3,44.0,Serious
+Rain,One Way,60,Darkness - no lighting,Night,1,57.0,Serious
+Clear,Dual Carriageway,40,Darkness - lights lit,Night,5,26.0,Fatal
+Rain,Single Carriageway,50,Darkness - no lighting,Night,4,38.0,Fatal
+Windy,Single Carriageway,70,Darkness - no lighting,Afternoon,2,54.0,Serious
+Rain,Slip Road,60,Darkness - lights lit,Afternoon,1,73.0,Serious
+Clear,Slip Road,70,Dawn/Dusk,Afternoon,3,49.0,Serious
+Rain,Single Carriageway,30,Daylight,Evening,4,38.0,Serious
+Rain,Roundabout,20,Dawn/Dusk,Afternoon,4,,Serious
+Rain,Roundabout,20,Dawn/Dusk,Morning,1,53.0,Serious
+Windy,Slip Road,30,Darkness - lights lit,Night,3,29.0,Serious
+Clear,One Way,30,Daylight,Evening,2,43.0,Minor
+Windy,Single Carriageway,60,Daylight,Evening,1,31.0,Serious
+Windy,Slip Road,30,Dawn/Dusk,Evening,2,38.0,Minor
+,Slip Road,50,Darkness - lights lit,Evening,4,46.0,Fatal
+Clear,Single Carriageway,70,Daylight,Evening,2,59.0,Minor
+Clear,Single Carriageway,70,,Morning,3,56.0,Serious
+Clear,Roundabout,40,Daylight,Night,5,53.0,Minor
+Clear,One Way,30,Darkness - lights lit,Evening,3,50.0,Serious
+Fog,One Way,30,Darkness - lights lit,Night,2,60.0,Serious
+Clear,Single Carriageway,50,Darkness - lights lit,Afternoon,1,76.0,Serious
+Clear,Dual Carriageway,20,Daylight,Evening,4,50.0,Minor
+Snow,Slip Road,20,Darkness - no lighting,Evening,5,74.0,Fatal
+Clear,Slip Road,70,Daylight,Night,1,64.0,Minor
+Snow,Single Carriageway,70,,Evening,1,69.0,Fatal
+Clear,Dual Carriageway,60,Darkness - lights lit,Evening,3,51.0,Serious
+Clear,Roundabout,50,Dawn/Dusk,Evening,2,58.0,Minor
+Fog,Single Carriageway,40,Darkness - no lighting,Morning,3,35.0,Serious
+Rain,Single Carriageway,40,Darkness - lights lit,Morning,2,,Serious
+Snow,Slip Road,50,Darkness - lights lit,Evening,3,55.0,Serious
+Fog,Single Carriageway,40,Darkness - no lighting,Morning,1,49.0,Serious
+Snow,Single Carriageway,20,Dawn/Dusk,Afternoon,4,60.0,Serious
+Clear,Single Carriageway,40,Darkness - lights lit,Evening,2,77.0,Serious
+Clear,Slip Road,40,Darkness - no lighting,Afternoon,5,44.0,Serious
+Fog,Roundabout,50,Dawn/Dusk,Night,5,53.0,Fatal
+Snow,Roundabout,50,Dawn/Dusk,Afternoon,1,64.0,Serious
+Windy,Single Carriageway,40,Darkness - lights lit,Night,3,41.0,Serious
+Rain,Slip Road,30,Daylight,Evening,3,52.0,Minor
+Clear,Roundabout,50,Daylight,Night,1,33.0,Minor
+Fog,Roundabout,60,Darkness - lights lit,Night,5,40.0,Fatal
+Clear,Roundabout,60,Dawn/Dusk,Afternoon,5,37.0,Serious
+,Slip Road,20,Darkness - lights lit,Afternoon,3,18.0,Serious
+Snow,Slip Road,40,Darkness - no lighting,Afternoon,2,47.0,Serious
+Rain,Single Carriageway,30,Daylight,Evening,4,60.0,Serious
+Fog,One Way,20,Darkness - no lighting,Evening,2,49.0,Serious
+Fog,Roundabout,40,Darkness - lights lit,Afternoon,5,46.0,Fatal
+Clear,One Way,50,Darkness - lights lit,Evening,2,28.0,Serious
+Windy,Slip Road,60,Dawn/Dusk,Evening,4,60.0,Serious
+Rain,Slip Road,70,Dawn/Dusk,Night,2,28.0,Serious
+Snow,Slip Road,30,Dawn/Dusk,Night,2,67.0,Fatal
+Clear,One Way,70,Darkness - no lighting,Afternoon,2,73.0,Fatal
+Snow,Slip Road,60,,Evening,2,65.0,Fatal
+,Single Carriageway,70,Darkness - lights lit,Night,1,68.0,Serious
+,Slip Road,50,Dawn/Dusk,Morning,5,40.0,Serious
+Windy,Dual Carriageway,40,Daylight,Evening,4,40.0,Serious
+Clear,One Way,50,Dawn/Dusk,Morning,5,74.0,Fatal
+Clear,Dual Carriageway,70,Darkness - no lighting,Afternoon,1,76.0,Serious
+Windy,Slip Road,50,Daylight,Evening,1,27.0,Minor
+Windy,Single Carriageway,60,Daylight,Afternoon,1,29.0,Serious
+Rain,Roundabout,30,Daylight,Afternoon,1,43.0,Minor
+Rain,Slip Road,50,Darkness - no lighting,Afternoon,2,24.0,Fatal
+Rain,Single Carriageway,60,Darkness - lights lit,Afternoon,5,26.0,Fatal
+,One Way,30,Dawn/Dusk,Afternoon,3,24.0,Serious
+Clear,Dual Carriageway,40,Daylight,Evening,4,36.0,Serious
+Fog,Dual Carriageway,70,Daylight,Morning,1,24.0,Serious
+Fog,Dual Carriageway,40,Daylight,Evening,5,25.0,Fatal
+Fog,One Way,20,Darkness - lights lit,Evening,1,23.0,Serious
+Fog,Single Carriageway,60,Darkness - lights lit,Evening,1,30.0,Fatal
+Clear,One Way,30,Darkness - no lighting,Night,1,44.0,Serious
+Rain,Dual Carriageway,50,Darkness - lights lit,Night,1,18.0,Serious
+Clear,Slip Road,40,Dawn/Dusk,Evening,1,73.0,Serious
+Rain,Roundabout,30,Darkness - no lighting,Morning,4,,Serious
+Rain,One Way,60,Darkness - no lighting,Evening,5,24.0,Fatal
+Snow,One Way,20,Dawn/Dusk,Afternoon,1,29.0,Serious
+Clear,Single Carriageway,40,Dawn/Dusk,Night,1,,Serious
+Clear,Single Carriageway,70,Dawn/Dusk,Night,1,63.0,Serious
+Clear,One Way,30,Darkness - no lighting,Evening,1,44.0,Minor
+Fog,Dual Carriageway,70,Darkness - no lighting,Evening,2,51.0,Fatal
+Rain,Roundabout,30,Darkness - no lighting,Morning,2,39.0,Serious
+Clear,Single Carriageway,30,Dawn/Dusk,Morning,3,62.0,Minor
+Clear,Dual Carriageway,60,Dawn/Dusk,Afternoon,1,78.0,Serious
+,Slip Road,60,Daylight,Evening,3,31.0,Serious
+Clear,Single Carriageway,60,Darkness - lights lit,Evening,4,18.0,Fatal
+Snow,Dual Carriageway,50,Daylight,Evening,3,77.0,Fatal
+Fog,Dual Carriageway,30,Dawn/Dusk,Night,5,67.0,Fatal
+Clear,Roundabout,40,Darkness - no lighting,Afternoon,2,28.0,Serious
+Clear,Roundabout,70,Dawn/Dusk,Morning,2,73.0,Serious
+,Slip Road,60,Darkness - lights lit,Night,1,68.0,Fatal
+Clear,Dual Carriageway,60,Daylight,Night,1,52.0,Minor
+Clear,Dual Carriageway,70,Daylight,Night,4,19.0,Serious
+Snow,Roundabout,70,Darkness - no lighting,Night,4,21.0,Fatal
+Windy,Single Carriageway,30,Daylight,Afternoon,5,19.0,Serious
+Windy,Single Carriageway,60,Daylight,Evening,1,73.0,Serious
+Fog,One Way,70,Dawn/Dusk,Morning,1,63.0,Fatal
+Clear,Roundabout,50,Daylight,Morning,4,,Minor
+Clear,One Way,50,Daylight,Night,4,18.0,Serious
+Fog,Roundabout,60,Daylight,Night,4,60.0,Fatal
+Rain,Slip Road,70,Darkness - no lighting,Afternoon,2,53.0,Fatal
+Rain,Dual Carriageway,30,Darkness - no lighting,Night,3,70.0,Serious
+Windy,Slip Road,30,,Morning,3,33.0,Serious
+Clear,Roundabout,30,Daylight,Morning,1,30.0,Minor
+Rain,Dual Carriageway,20,Darkness - no lighting,Evening,2,,Serious
+Clear,Single Carriageway,60,Darkness - no lighting,Evening,4,43.0,Fatal
+Rain,Single Carriageway,30,Dawn/Dusk,Morning,1,70.0,Minor
+Clear,One Way,50,Darkness - lights lit,Morning,2,26.0,Serious
+Clear,Roundabout,70,Daylight,Afternoon,5,19.0,Serious
+Clear,Roundabout,40,Darkness - no lighting,Afternoon,2,52.0,Serious
+Rain,Single Carriageway,40,Dawn/Dusk,Morning,1,54.0,Serious
+Fog,Slip Road,30,Dawn/Dusk,Night,3,,Fatal
+,Dual Carriageway,40,Dawn/Dusk,Evening,4,79.0,Serious
+Windy,Slip Road,40,Darkness - no lighting,Morning,5,41.0,Fatal
+Clear,Slip Road,20,Daylight,Night,2,38.0,Minor
+Clear,Single Carriageway,50,,Morning,1,64.0,Minor
+Snow,Single Carriageway,50,Daylight,Evening,1,55.0,Serious
+Clear,Single Carriageway,20,,Evening,4,63.0,Serious
+Windy,One Way,20,Dawn/Dusk,Afternoon,1,46.0,Minor
+Clear,Slip Road,40,Darkness - lights lit,Afternoon,1,37.0,Serious
+Windy,Roundabout,60,Daylight,Afternoon,4,46.0,Serious
+Clear,Dual Carriageway,70,Dawn/Dusk,Afternoon,5,44.0,Fatal
+Snow,One Way,70,Dawn/Dusk,Evening,3,,Fatal
+Rain,Roundabout,40,Daylight,Night,3,73.0,Serious
+Windy,Slip Road,70,Dawn/Dusk,Night,2,68.0,Serious
+Clear,Single Carriageway,20,Daylight,Night,5,42.0,Minor
+Rain,Slip Road,50,Dawn/Dusk,Morning,2,,Serious
+Windy,Dual Carriageway,70,Daylight,Afternoon,3,38.0,Serious
+Rain,One Way,40,Darkness - lights lit,Afternoon,4,37.0,Serious
+Rain,One Way,60,Dawn/Dusk,Evening,1,,Fatal
+Fog,Dual Carriageway,40,Darkness - lights lit,Evening,3,53.0,Fatal
+Rain,Roundabout,30,Dawn/Dusk,Morning,5,29.0,Serious
+Rain,Roundabout,40,Dawn/Dusk,Morning,3,37.0,Serious
+Rain,One Way,20,,Night,5,62.0,Serious
+Windy,One Way,50,Daylight,Evening,5,25.0,Serious
+Clear,Single Carriageway,50,Darkness - lights lit,Afternoon,5,,Serious
+Clear,Roundabout,70,Darkness - lights lit,Night,2,63.0,Serious
+Windy,Dual Carriageway,20,Darkness - lights lit,Afternoon,4,37.0,Serious
+Snow,Roundabout,30,Daylight,Night,3,47.0,Serious
+Rain,Single Carriageway,20,Darkness - no lighting,Afternoon,4,55.0,Fatal
+Rain,One Way,40,Darkness - lights lit,Morning,1,75.0,Serious
+Clear,One Way,20,Daylight,Night,3,70.0,Minor
+Clear,Single Carriageway,20,Dawn/Dusk,Afternoon,4,38.0,Serious
+Rain,Dual Carriageway,30,Darkness - lights lit,Afternoon,4,,Serious
+Clear,One Way,40,Darkness - lights lit,Evening,1,71.0,Serious
+Rain,Slip Road,60,Darkness - no lighting,Night,5,22.0,Fatal
+Clear,One Way,60,Darkness - lights lit,Afternoon,3,69.0,Serious
+,Slip Road,50,Darkness - lights lit,Evening,3,32.0,Fatal
+Windy,Single Carriageway,70,Dawn/Dusk,Afternoon,1,42.0,Serious
+Fog,Single Carriageway,20,Daylight,Night,5,21.0,Serious
+Rain,One Way,50,Daylight,Morning,3,25.0,Minor
+,Roundabout,30,Darkness - no lighting,Night,3,62.0,Serious
+Snow,Slip Road,60,Dawn/Dusk,Night,3,56.0,Fatal
+Fog,Dual Carriageway,20,Daylight,Afternoon,5,30.0,Serious
+Clear,One Way,30,Dawn/Dusk,Afternoon,1,60.0,Minor
+Windy,Dual Carriageway,70,Daylight,Night,3,79.0,Serious
+Snow,One Way,30,Dawn/Dusk,Evening,4,58.0,Fatal
+Windy,Roundabout,20,Darkness - no lighting,Evening,5,46.0,Serious
+Fog,Roundabout,70,Darkness - lights lit,Evening,2,68.0,Fatal
+Rain,Roundabout,30,,Afternoon,1,68.0,Serious
+Rain,Roundabout,70,,Afternoon,4,42.0,Serious
+Windy,Single Carriageway,20,Darkness - no lighting,Night,3,69.0,Serious
+Snow,Single Carriageway,20,Darkness - lights lit,Morning,2,61.0,Serious
+Clear,Slip Road,70,Darkness - no lighting,Afternoon,1,45.0,Serious
+Clear,Dual Carriageway,40,Daylight,Night,5,35.0,Serious
+Clear,One Way,50,Daylight,Night,2,63.0,Minor
+Snow,One Way,30,Darkness - no lighting,Morning,2,24.0,Fatal
+Windy,Single Carriageway,30,Darkness - lights lit,Evening,4,39.0,Serious
+Clear,One Way,40,Darkness - no lighting,Night,1,69.0,Serious
+Rain,Single Carriageway,40,Darkness - lights lit,Night,4,58.0,Fatal
+Clear,Slip Road,40,Dawn/Dusk,Night,4,51.0,Serious
+Windy,Dual Carriageway,60,Darkness - lights lit,Evening,3,47.0,Fatal
+Snow,Slip Road,60,Dawn/Dusk,Evening,5,69.0,Fatal
+Snow,Roundabout,70,,Morning,2,51.0,Fatal
+Rain,Roundabout,60,Darkness - lights lit,Afternoon,1,48.0,Fatal
+Rain,Roundabout,20,Dawn/Dusk,Evening,5,74.0,Fatal
+Clear,Slip Road,70,Dawn/Dusk,Afternoon,5,21.0,Serious
+Clear,One Way,30,Dawn/Dusk,Afternoon,1,32.0,Minor
+Snow,Dual Carriageway,50,Daylight,Evening,5,33.0,Serious
+Snow,Roundabout,20,Darkness - no lighting,Night,3,48.0,Fatal
+Windy,Roundabout,30,Dawn/Dusk,Morning,5,54.0,Serious
+Windy,Roundabout,30,Darkness - lights lit,Afternoon,3,74.0,Serious
+Rain,Dual Carriageway,70,Dawn/Dusk,Night,2,48.0,Serious
+Fog,Roundabout,40,Daylight,Evening,2,68.0,Serious
+Windy,Dual Carriageway,40,Darkness - no lighting,Afternoon,4,36.0,Serious
+Snow,Roundabout,20,Daylight,Afternoon,3,64.0,Serious
+Clear,Slip Road,40,Daylight,Afternoon,2,72.0,Minor
+Rain,Slip Road,30,Daylight,Night,5,18.0,Serious
+Clear,Dual Carriageway,40,Darkness - lights lit,Night,1,36.0,Minor
+,Slip Road,60,Darkness - no lighting,Night,1,63.0,Serious
+Rain,Dual Carriageway,40,Darkness - no lighting,Afternoon,3,34.0,Fatal
+Clear,Slip Road,30,Darkness - lights lit,Afternoon,4,17.0,Serious
+Fog,Slip Road,70,Darkness - no lighting,Morning,5,74.0,Fatal
+Rain,Dual Carriageway,20,Daylight,Morning,3,45.0,Minor
+Clear,One Way,50,Darkness - no lighting,Night,1,45.0,Serious
+Clear,Slip Road,40,Darkness - lights lit,Night,3,35.0,Serious
+Fog,Roundabout,30,Daylight,Evening,5,60.0,Serious
+Rain,One Way,50,Darkness - lights lit,Night,2,56.0,Fatal
+Fog,Dual Carriageway,50,Dawn/Dusk,Morning,5,,Fatal
+Rain,One Way,60,Daylight,Morning,2,60.0,Serious
+Snow,Single Carriageway,50,Daylight,Morning,2,,Serious
+Rain,Single Carriageway,70,Darkness - no lighting,Afternoon,2,66.0,Fatal
+Rain,Slip Road,30,Daylight,Afternoon,3,70.0,Serious
+Snow,Slip Road,30,Darkness - lights lit,Night,1,62.0,Serious
+Rain,Roundabout,40,Darkness - no lighting,Evening,3,24.0,Fatal
+Clear,One Way,40,Dawn/Dusk,Evening,1,40.0,Serious
+Clear,Single Carriageway,40,Darkness - lights lit,Evening,5,36.0,Serious
+Fog,Slip Road,70,Dawn/Dusk,Afternoon,4,70.0,Fatal
+Rain,One Way,50,Dawn/Dusk,Morning,5,30.0,Serious
+,Slip Road,50,Dawn/Dusk,Morning,3,21.0,Fatal
+Clear,Slip Road,60,Daylight,Afternoon,3,57.0,Serious
+Clear,Single Carriageway,70,Darkness - lights lit,Evening,1,56.0,Serious
+Clear,Single Carriageway,40,Darkness - lights lit,Evening,3,50.0,Serious
+,Slip Road,20,Daylight,Night,2,76.0,Serious
+Rain,Dual Carriageway,60,Darkness - no lighting,Night,3,32.0,Fatal
+Clear,Slip Road,20,Dawn/Dusk,Evening,1,61.0,Minor
+Rain,Slip Road,50,Darkness - lights lit,Afternoon,1,23.0,Serious
+Windy,Roundabout,60,,Evening,2,32.0,Serious
+Clear,Roundabout,60,Dawn/Dusk,Night,1,,Serious
+Rain,Roundabout,30,Darkness - no lighting,Evening,4,43.0,Serious
+Fog,Dual Carriageway,50,Darkness - no lighting,Afternoon,5,30.0,Fatal
+Clear,Dual Carriageway,50,Dawn/Dusk,Morning,3,30.0,Minor
+Rain,Slip Road,70,Darkness - no lighting,Afternoon,4,60.0,Fatal
+Snow,Roundabout,60,Darkness - lights lit,Afternoon,3,49.0,Fatal
+Windy,Dual Carriageway,50,Darkness - lights lit,Night,4,49.0,Fatal
+Clear,Single Carriageway,60,Darkness - lights lit,Afternoon,3,60.0,Serious
+,Slip Road,70,Darkness - no lighting,Afternoon,2,36.0,Fatal
+Rain,One Way,70,Darkness - lights lit,Night,1,69.0,Serious
+Clear,Slip Road,30,Daylight,Night,1,63.0,Minor
+Rain,One Way,60,Darkness - lights lit,Morning,2,52.0,Fatal
+Windy,Roundabout,50,Darkness - lights lit,Evening,4,23.0,Fatal
+Rain,One Way,50,Darkness - no lighting,Afternoon,5,48.0,Serious
+Clear,Roundabout,60,Darkness - lights lit,Night,4,64.0,Fatal
+Rain,Single Carriageway,60,Dawn/Dusk,Morning,1,19.0,Serious
+Clear,One Way,60,Daylight,Evening,5,55.0,Serious
+Clear,Slip Road,40,Darkness - no lighting,Night,3,45.0,Serious
+Clear,Roundabout,50,,Evening,5,40.0,Serious
+Clear,Slip Road,70,Dawn/Dusk,Evening,4,38.0,Fatal
+Clear,Dual Carriageway,50,Darkness - no lighting,Afternoon,2,22.0,Serious
+Clear,Roundabout,40,Darkness - no lighting,Afternoon,3,64.0,Serious
+Rain,One Way,60,Darkness - lights lit,Night,4,40.0,Fatal
+Clear,Roundabout,30,Daylight,Evening,3,56.0,Minor
+Clear,Slip Road,60,,Night,5,39.0,Fatal
+Snow,Single Carriageway,60,Dawn/Dusk,Night,1,70.0,Serious
+Rain,Roundabout,40,Darkness - no lighting,Evening,4,54.0,Fatal
+Fog,One Way,50,Darkness - lights lit,Night,2,26.0,Serious
+Clear,Dual Carriageway,60,Darkness - no lighting,Evening,5,32.0,Serious
+Clear,Single Carriageway,50,Darkness - no lighting,Evening,4,27.0,Serious
+Clear,Dual Carriageway,20,Darkness - no lighting,Evening,2,48.0,Serious
+Clear,Roundabout,70,Darkness - no lighting,Evening,4,61.0,Serious
+Clear,Slip Road,50,Dawn/Dusk,Morning,5,77.0,Serious
+Clear,Slip Road,30,Dawn/Dusk,Evening,4,22.0,Serious
+Clear,One Way,70,Darkness - no lighting,Afternoon,3,40.0,Serious
+Clear,Slip Road,30,Darkness - no lighting,Afternoon,5,49.0,Serious
+Rain,Single Carriageway,60,Darkness - lights lit,Afternoon,4,69.0,Fatal
+Clear,Slip Road,70,Darkness - no lighting,Evening,1,67.0,Fatal
+Clear,One Way,50,Dawn/Dusk,Afternoon,4,28.0,Serious
+Rain,Roundabout,70,Daylight,Morning,3,72.0,Serious
+Fog,Roundabout,60,Dawn/Dusk,Night,2,,Fatal
+Clear,Slip Road,40,Darkness - lights lit,Evening,2,54.0,Serious
+Fog,Dual Carriageway,30,Dawn/Dusk,Afternoon,2,78.0,Serious
+Rain,Roundabout,60,Daylight,Morning,1,34.0,Serious
+Clear,Slip Road,40,Darkness - no lighting,Night,3,79.0,Fatal
+Snow,One Way,70,Daylight,Morning,5,61.0,Fatal
+Windy,Slip Road,70,Darkness - no lighting,Afternoon,2,55.0,Fatal
+Clear,Roundabout,60,Darkness - no lighting,Morning,3,71.0,Serious
+Clear,One Way,50,Dawn/Dusk,Night,4,29.0,Serious
+Snow,Slip Road,70,Dawn/Dusk,Afternoon,1,69.0,Serious
+Fog,Single Carriageway,50,Dawn/Dusk,Night,3,56.0,Serious
+Clear,One Way,50,Darkness - lights lit,Morning,3,46.0,Serious
+Clear,Single Carriageway,50,Dawn/Dusk,Evening,5,69.0,Serious
+,Dual Carriageway,20,Darkness - lights lit,Evening,3,65.0,Serious
+Rain,One Way,40,Dawn/Dusk,Evening,5,57.0,Serious
+Rain,Single Carriageway,40,Darkness - no lighting,Evening,1,68.0,Fatal
+Clear,Roundabout,70,Darkness - lights lit,Night,1,29.0,Serious
+Rain,Roundabout,70,,Evening,4,50.0,Serious
+Fog,Dual Carriageway,50,Darkness - lights lit,Night,5,52.0,Fatal
+Clear,One Way,20,Darkness - lights lit,Afternoon,5,46.0,Serious
+Clear,One Way,50,Daylight,Evening,2,77.0,Minor
+Fog,One Way,20,Darkness - lights lit,Night,2,41.0,Serious
+Snow,Dual Carriageway,50,Darkness - no lighting,Evening,4,18.0,Fatal
+Rain,One Way,30,Dawn/Dusk,Evening,1,,Serious
+,Roundabout,30,Daylight,Evening,2,34.0,Minor
+Clear,Single Carriageway,60,Dawn/Dusk,Night,3,21.0,Serious
+Rain,Roundabout,50,Darkness - no lighting,Morning,1,35.0,Serious
+Rain,Roundabout,70,Daylight,Evening,3,58.0,Serious
+Clear,Single Carriageway,40,Dawn/Dusk,Evening,5,34.0,Serious
+Clear,Roundabout,60,Dawn/Dusk,Afternoon,1,78.0,Serious
+Clear,Dual Carriageway,70,Darkness - no lighting,Morning,4,73.0,Fatal
+Clear,Single Carriageway,30,Dawn/Dusk,Night,5,48.0,Serious
+Clear,Roundabout,50,Darkness - no lighting,Afternoon,5,37.0,Fatal
+Clear,Slip Road,60,Darkness - lights lit,Evening,3,26.0,Serious
+Clear,Roundabout,50,Darkness - no lighting,Afternoon,5,53.0,Fatal
+Clear,Dual Carriageway,30,Darkness - lights lit,Afternoon,2,65.0,Serious
+Snow,One Way,60,Daylight,Evening,1,38.0,Serious
+Rain,Roundabout,30,Dawn/Dusk,Morning,2,29.0,Minor
+Fog,One Way,20,Darkness - no lighting,Morning,3,71.0,Fatal
+Fog,Slip Road,30,Darkness - no lighting,Afternoon,3,33.0,Serious
+Rain,Roundabout,50,Dawn/Dusk,Evening,1,25.0,Serious
+Clear,Single Carriageway,40,Dawn/Dusk,Night,5,40.0,Serious
+Rain,One Way,30,Daylight,Afternoon,4,60.0,Minor
+Rain,Slip Road,70,Daylight,Night,3,30.0,Serious
+Fog,Single Carriageway,40,Darkness - no lighting,Afternoon,1,62.0,Fatal
+Rain,Single Carriageway,20,Daylight,Afternoon,4,,Serious
+Clear,Single Carriageway,60,Darkness - lights lit,Evening,5,71.0,Fatal
+Clear,Single Carriageway,60,Daylight,Evening,3,53.0,Serious
+Clear,Roundabout,40,Daylight,Night,1,35.0,Minor
+Rain,Roundabout,60,Darkness - no lighting,Night,1,79.0,Fatal
+Rain,Roundabout,30,Darkness - lights lit,Morning,1,44.0,Serious
+Clear,Slip Road,40,Daylight,Evening,3,,Minor
+Windy,Slip Road,50,Darkness - lights lit,Afternoon,4,57.0,Fatal
+Rain,Slip Road,30,Darkness - lights lit,Afternoon,1,46.0,Serious
+Clear,Dual Carriageway,30,Darkness - lights lit,Morning,5,23.0,Fatal
+Clear,Slip Road,30,Dawn/Dusk,Evening,1,75.0,Serious
+Clear,Roundabout,50,Dawn/Dusk,Afternoon,4,74.0,Serious
+Clear,Roundabout,20,Dawn/Dusk,Morning,3,42.0,Serious
+Clear,Dual Carriageway,70,Dawn/Dusk,Morning,1,56.0,Serious
+Clear,Dual Carriageway,60,Darkness - no lighting,Afternoon,1,62.0,Serious
+Clear,Slip Road,40,Daylight,Afternoon,5,70.0,Serious
+Clear,One Way,20,Dawn/Dusk,Night,5,76.0,Serious
+Snow,Dual Carriageway,40,Darkness - no lighting,Evening,1,62.0,Serious
+Clear,Single Carriageway,60,Daylight,Night,1,27.0,Minor
+Rain,Roundabout,50,Dawn/Dusk,Morning,5,30.0,Serious
+Rain,Single Carriageway,30,Daylight,Afternoon,4,37.0,Serious
+Windy,Roundabout,30,Dawn/Dusk,Night,2,79.0,Serious
+Clear,Roundabout,50,Darkness - no lighting,Morning,2,24.0,Serious
+Clear,Dual Carriageway,20,Darkness - lights lit,Evening,1,19.0,Minor
+,Dual Carriageway,20,Darkness - lights lit,Afternoon,5,44.0,Serious
+Snow,Single Carriageway,40,Daylight,Night,3,77.0,Serious
+Snow,Roundabout,50,Darkness - no lighting,Evening,3,45.0,Serious
+Clear,Single Carriageway,20,Darkness - lights lit,Night,2,39.0,Serious
+Clear,One Way,50,Dawn/Dusk,Morning,4,34.0,Serious
+Fog,Single Carriageway,60,,Evening,2,51.0,Fatal
+Windy,Slip Road,30,Daylight,Night,1,79.0,Minor
+Rain,Single Carriageway,30,Daylight,Evening,4,29.0,Serious
+Rain,Slip Road,30,Darkness - no lighting,Morning,3,28.0,Serious
+Clear,Slip Road,50,Daylight,Evening,5,63.0,Serious
+Fog,Slip Road,50,Darkness - lights lit,Night,5,66.0,Fatal
+Clear,One Way,40,Darkness - lights lit,Morning,1,21.0,Serious
+Clear,Single Carriageway,30,Darkness - lights lit,Afternoon,2,55.0,Serious
+Rain,Single Carriageway,40,Darkness - lights lit,Night,1,27.0,Serious
+Rain,One Way,30,Darkness - no lighting,Night,5,74.0,Fatal
+Clear,Roundabout,40,Dawn/Dusk,Morning,3,75.0,Serious
+Clear,Dual Carriageway,40,Dawn/Dusk,Morning,5,27.0,Serious
+Rain,Single Carriageway,60,Darkness - no lighting,Afternoon,4,75.0,Fatal
+Clear,Dual Carriageway,40,Daylight,Night,5,63.0,Serious
+Rain,One Way,50,,Morning,5,58.0,Serious
+Clear,Roundabout,40,Daylight,Afternoon,4,63.0,Serious
+,Roundabout,30,Dawn/Dusk,Afternoon,2,47.0,Minor
+Rain,Roundabout,40,,Morning,5,47.0,Serious
+Clear,One Way,20,Darkness - no lighting,Night,1,,Minor
+Clear,Slip Road,70,Darkness - lights lit,Evening,5,30.0,Serious
+Clear,Slip Road,30,Daylight,Evening,1,65.0,Minor
+Clear,Dual Carriageway,20,Darkness - lights lit,Afternoon,4,61.0,Serious
+Windy,Slip Road,30,Daylight,Evening,5,58.0,Serious
+Clear,Slip Road,50,Daylight,Evening,4,41.0,Serious
+Snow,Roundabout,70,Daylight,Morning,4,49.0,Fatal
+Clear,Roundabout,70,Daylight,Afternoon,2,49.0,Serious
+Fog,Dual Carriageway,50,Daylight,Night,5,78.0,Fatal
+Fog,Single Carriageway,70,Darkness - lights lit,Afternoon,1,31.0,Fatal
+Rain,Dual Carriageway,50,Daylight,Morning,1,32.0,Minor
+Rain,Dual Carriageway,20,Darkness - lights lit,Evening,5,60.0,Serious
+Rain,One Way,60,Darkness - no lighting,Night,2,74.0,Fatal
+Clear,One Way,30,Dawn/Dusk,Afternoon,2,72.0,Serious
+Windy,Dual Carriageway,50,Daylight,Evening,2,54.0,Serious
+Snow,Dual Carriageway,30,,Afternoon,1,22.0,Serious
+Windy,Dual Carriageway,20,Darkness - lights lit,Night,4,60.0,Fatal
+Clear,Slip Road,60,Darkness - no lighting,Afternoon,2,41.0,Fatal
+Fog,One Way,20,Darkness - no lighting,Afternoon,1,31.0,Serious
+,Dual Carriageway,70,Darkness - no lighting,Afternoon,1,20.0,Fatal
+Clear,Roundabout,30,Dawn/Dusk,Evening,4,72.0,Serious
+Clear,Roundabout,60,Darkness - lights lit,Night,5,20.0,Fatal
+Fog,Slip Road,70,Daylight,Night,5,46.0,Serious
+Rain,Slip Road,60,Daylight,Evening,2,50.0,Serious
+Snow,Single Carriageway,70,Darkness - lights lit,Evening,2,43.0,Fatal
+,Single Carriageway,20,Dawn/Dusk,Evening,4,47.0,Serious
+Fog,Single Carriageway,50,Daylight,Morning,2,72.0,Fatal
+Clear,Slip Road,30,Darkness - lights lit,Afternoon,4,48.0,Serious
+,Slip Road,40,Daylight,Afternoon,1,60.0,Minor
+Clear,Slip Road,40,,Night,2,55.0,Serious
+Snow,Roundabout,20,,Afternoon,1,68.0,Minor
+Fog,Slip Road,30,Dawn/Dusk,Morning,3,25.0,Serious
+Rain,Roundabout,30,Darkness - lights lit,Evening,4,79.0,Fatal
+Clear,Single Carriageway,20,Dawn/Dusk,Night,3,57.0,Minor
+,Single Carriageway,30,Darkness - lights lit,Night,2,24.0,Serious
+Clear,Single Carriageway,50,Darkness - no lighting,Afternoon,1,30.0,Serious
+Snow,Dual Carriageway,20,Darkness - lights lit,Night,2,49.0,Fatal
+Rain,Dual Carriageway,50,Daylight,Evening,3,39.0,Serious
+Clear,One Way,30,,Night,2,37.0,Minor
+Rain,One Way,20,Darkness - no lighting,Evening,5,71.0,Serious
+Clear,One Way,30,Darkness - lights lit,Morning,3,28.0,Serious
+Fog,Dual Carriageway,20,Darkness - no lighting,Morning,2,73.0,Serious
+Rain,Dual Carriageway,30,Daylight,Evening,1,18.0,Minor
+Clear,One Way,50,Dawn/Dusk,Afternoon,2,29.0,Minor
+Snow,One Way,50,Darkness - no lighting,Night,1,78.0,Serious
+Clear,Slip Road,30,Dawn/Dusk,Afternoon,5,75.0,Serious
+Rain,One Way,20,Dawn/Dusk,Night,2,,Serious
+Windy,Slip Road,40,Darkness - lights lit,Morning,5,36.0,Fatal
+Rain,Roundabout,50,Darkness - no lighting,Morning,3,66.0,Fatal
+Clear,Dual Carriageway,50,Dawn/Dusk,Morning,1,67.0,Serious
+Windy,One Way,70,Dawn/Dusk,Night,3,64.0,Fatal
+Rain,Dual Carriageway,40,Darkness - lights lit,Morning,1,75.0,Fatal
+Clear,Dual Carriageway,30,Darkness - lights lit,Morning,5,30.0,Serious
+Clear,Dual Carriageway,20,Daylight,Morning,4,46.0,Minor
+Fog,Roundabout,70,Dawn/Dusk,Morning,2,45.0,Fatal
+Rain,Single Carriageway,30,Daylight,Afternoon,5,24.0,Serious
+Rain,One Way,60,Dawn/Dusk,Morning,1,28.0,Serious
+Snow,Single Carriageway,50,Daylight,Morning,1,57.0,Minor
+Fog,Single Carriageway,60,Darkness - lights lit,Afternoon,1,54.0,Serious
+,Single Carriageway,50,Darkness - no lighting,Afternoon,1,42.0,Serious
+Clear,Dual Carriageway,50,Darkness - lights lit,Night,2,66.0,Serious
+Clear,Slip Road,60,Daylight,Evening,3,,Serious
+Fog,Dual Carriageway,60,Daylight,Morning,4,71.0,Fatal
+Clear,Dual Carriageway,30,,Morning,2,56.0,Serious
+Rain,Single Carriageway,70,Dawn/Dusk,Morning,1,72.0,Serious
+Fog,Dual Carriageway,70,Daylight,Night,2,30.0,Serious
+Snow,Single Carriageway,60,Daylight,Morning,5,22.0,Fatal
+Clear,Slip Road,30,Daylight,Evening,1,58.0,Minor
+Snow,One Way,70,Darkness - no lighting,Afternoon,4,56.0,Fatal
+Clear,Single Carriageway,30,Darkness - lights lit,Night,1,78.0,Serious
+Snow,Slip Road,30,Daylight,Afternoon,4,47.0,Serious
+Clear,One Way,50,Darkness - no lighting,Morning,4,33.0,Serious
+Clear,Roundabout,70,Daylight,Morning,3,41.0,Minor
+Fog,Single Carriageway,70,Dawn/Dusk,Morning,3,77.0,Fatal
+Clear,Single Carriageway,50,Darkness - no lighting,Evening,2,48.0,Serious
+Clear,Roundabout,60,Daylight,Evening,2,28.0,Minor
+Fog,Roundabout,50,Darkness - no lighting,Night,4,65.0,Fatal
+Fog,Single Carriageway,70,Daylight,Afternoon,1,29.0,Serious
+Rain,Roundabout,70,Darkness - lights lit,Morning,5,,Fatal
+Fog,Dual Carriageway,60,Daylight,Morning,5,60.0,Serious
+,One Way,50,Darkness - no lighting,Morning,1,64.0,Serious
+Clear,One Way,20,Dawn/Dusk,Morning,1,41.0,Minor
+Clear,One Way,20,,Evening,3,47.0,Minor
+Clear,Dual Carriageway,60,Dawn/Dusk,Afternoon,5,75.0,Fatal
+Windy,Roundabout,50,Daylight,Afternoon,4,53.0,Serious
+,Slip Road,50,Darkness - lights lit,Night,2,41.0,Fatal
+Rain,Roundabout,30,Daylight,Evening,3,32.0,Serious
+Rain,Single Carriageway,70,Dawn/Dusk,Morning,5,73.0,Fatal
+Windy,One Way,40,Darkness - no lighting,Afternoon,1,54.0,Serious
+Clear,Roundabout,60,Dawn/Dusk,Afternoon,5,59.0,Serious
+Rain,Slip Road,40,Darkness - no lighting,Evening,4,65.0,Fatal
+Rain,Single Carriageway,40,Darkness - lights lit,Night,3,74.0,Fatal
+Rain,Dual Carriageway,60,Darkness - no lighting,Night,1,,Serious
+Clear,Dual Carriageway,50,Daylight,Morning,4,,Serious
+Snow,Slip Road,60,Daylight,Night,2,22.0,Fatal
+Windy,Single Carriageway,40,Daylight,Afternoon,3,41.0,Serious
+Rain,One Way,70,Darkness - no lighting,Night,4,39.0,Fatal
+Fog,Roundabout,70,Daylight,Morning,4,78.0,Fatal
+Windy,Single Carriageway,70,Daylight,Afternoon,1,76.0,Serious
+Fog,Dual Carriageway,50,Daylight,Night,2,59.0,Serious
+Clear,Slip Road,20,Darkness - lights lit,Night,4,28.0,Serious
+Rain,Slip Road,60,Darkness - no lighting,Evening,3,29.0,Fatal
+Rain,Roundabout,70,,Morning,4,52.0,Fatal
+Rain,Slip Road,60,Dawn/Dusk,Night,5,55.0,Serious
+Fog,Slip Road,70,Darkness - no lighting,Evening,3,50.0,Fatal
+Windy,Single Carriageway,50,Darkness - lights lit,Afternoon,3,22.0,Fatal
+Windy,One Way,20,Darkness - no lighting,Evening,4,79.0,Serious
+Rain,Roundabout,20,Darkness - lights lit,Evening,1,54.0,Serious
+Clear,Single Carriageway,70,Darkness - lights lit,Night,3,66.0,Fatal
+Windy,One Way,50,Darkness - no lighting,Night,5,78.0,Fatal
+Snow,Single Carriageway,30,Dawn/Dusk,Night,1,68.0,Serious
+Clear,Single Carriageway,60,Daylight,Evening,1,56.0,Minor
+Windy,Slip Road,60,Daylight,Afternoon,1,24.0,Serious
+Snow,One Way,40,Darkness - no lighting,Morning,3,77.0,Fatal
+Rain,Roundabout,50,Darkness - no lighting,Evening,1,,Serious
+Rain,Roundabout,40,Darkness - lights lit,Night,4,56.0,Serious
+Clear,One Way,70,Darkness - no lighting,Morning,1,49.0,Serious
+Clear,Slip Road,40,Darkness - lights lit,Afternoon,5,50.0,Fatal
+Clear,Dual Carriageway,20,Dawn/Dusk,Morning,2,,Minor
+Snow,Single Carriageway,60,Darkness - no lighting,Night,5,31.0,Fatal
+Clear,Slip Road,40,Daylight,Evening,3,52.0,Serious
+Clear,One Way,20,Daylight,Evening,1,76.0,Minor
+Clear,Single Carriageway,50,Darkness - no lighting,Night,1,73.0,Serious
+Rain,Roundabout,40,Darkness - lights lit,Evening,4,51.0,Fatal
+Windy,Dual Carriageway,70,Daylight,Night,1,62.0,Minor
+Clear,Roundabout,70,Darkness - lights lit,Evening,5,,Fatal
+Clear,One Way,70,Darkness - no lighting,Evening,3,39.0,Serious
+Fog,Single Carriageway,60,Darkness - no lighting,Evening,2,,Fatal
+Rain,One Way,40,Daylight,Afternoon,1,61.0,Minor
+Clear,Single Carriageway,50,Darkness - no lighting,Afternoon,2,71.0,Serious
+Rain,Slip Road,40,Dawn/Dusk,Night,1,67.0,Serious
+Clear,Dual Carriageway,60,Dawn/Dusk,Afternoon,3,38.0,Serious
+Clear,Slip Road,20,Daylight,Night,5,21.0,Serious
+Rain,Slip Road,60,Dawn/Dusk,Morning,3,47.0,Fatal
+Rain,One Way,70,Darkness - lights lit,Morning,2,29.0,Fatal
+Windy,Dual Carriageway,20,Daylight,Afternoon,1,44.0,Minor
+Clear,Single Carriageway,70,Daylight,Morning,2,74.0,Serious
+Rain,Single Carriageway,30,Darkness - lights lit,Morning,5,36.0,Serious
+Rain,Roundabout,60,Dawn/Dusk,Evening,3,49.0,Serious
+Clear,Single Carriageway,60,Dawn/Dusk,Evening,2,32.0,Serious
+Fog,One Way,50,Dawn/Dusk,Night,2,78.0,Fatal
+Clear,Slip Road,40,Daylight,Morning,5,45.0,Serious
+Windy,Slip Road,20,Daylight,Night,1,39.0,Minor
+Clear,Slip Road,20,Dawn/Dusk,Night,2,40.0,Minor
+Rain,Dual Carriageway,50,Darkness - no lighting,Morning,5,50.0,Fatal
+Clear,Single Carriageway,50,Dawn/Dusk,Afternoon,1,23.0,Serious
+Windy,One Way,40,Darkness - lights lit,Morning,1,54.0,Serious
+Rain,Dual Carriageway,70,Daylight,Evening,3,53.0,Serious
+Rain,Roundabout,40,Darkness - lights lit,Morning,5,77.0,Fatal
+Clear,One Way,60,Darkness - lights lit,Afternoon,1,20.0,Serious
+Fog,One Way,70,Daylight,Night,3,50.0,Serious
+Clear,One Way,30,Darkness - no lighting,Night,4,58.0,Serious
+Snow,Slip Road,40,Dawn/Dusk,Evening,5,38.0,Fatal
+Clear,One Way,50,Darkness - lights lit,Evening,4,21.0,Fatal
+Clear,Single Carriageway,70,Daylight,Evening,1,66.0,Serious
+Clear,One Way,40,Darkness - lights lit,Night,5,58.0,Fatal
+Rain,Slip Road,20,Dawn/Dusk,Evening,3,39.0,Minor
+,One Way,30,Darkness - no lighting,Morning,1,70.0,Serious
+,Roundabout,60,Darkness - no lighting,Night,5,76.0,Fatal
+Fog,Roundabout,20,Darkness - no lighting,Afternoon,5,31.0,Fatal
+Rain,Slip Road,20,Daylight,Night,4,,Minor
+Rain,Single Carriageway,30,Daylight,Morning,1,75.0,Minor
+Rain,Single Carriageway,60,Darkness - no lighting,Morning,3,25.0,Fatal
+Rain,Dual Carriageway,50,Dawn/Dusk,Evening,3,59.0,Serious
+Rain,Slip Road,70,Dawn/Dusk,Night,1,74.0,Serious
+Clear,One Way,60,Daylight,Night,1,69.0,Serious
+Clear,Slip Road,40,Darkness - no lighting,Night,2,41.0,Serious
+Snow,Dual Carriageway,20,Dawn/Dusk,Afternoon,4,41.0,Serious
+Windy,Slip Road,40,Dawn/Dusk,Evening,1,77.0,Serious
+Clear,Slip Road,50,Dawn/Dusk,Morning,1,65.0,Minor
+Clear,Dual Carriageway,40,Daylight,Morning,2,,Serious
+Rain,Single Carriageway,60,,Evening,2,25.0,Fatal
+Rain,One Way,40,Darkness - lights lit,Morning,5,71.0,Fatal
+Clear,Dual Carriageway,50,Darkness - no lighting,Morning,3,64.0,Serious
+Clear,Roundabout,50,Darkness - no lighting,Evening,4,54.0,Serious
+Fog,Single Carriageway,50,Daylight,Morning,5,38.0,Serious
+Fog,Roundabout,60,Dawn/Dusk,Night,1,59.0,Serious
+Clear,Single Carriageway,50,Dawn/Dusk,Afternoon,2,39.0,Serious
+Clear,One Way,20,Daylight,Evening,3,65.0,Minor
+,One Way,50,Daylight,Afternoon,5,20.0,Serious
+,Slip Road,40,Daylight,Morning,3,45.0,Serious
+,Roundabout,70,Daylight,Morning,2,31.0,Minor
+Clear,Single Carriageway,40,Daylight,Night,5,17.0,Serious
+Fog,One Way,70,Darkness - lights lit,Evening,5,70.0,Fatal
+Clear,Dual Carriageway,40,Darkness - no lighting,Morning,3,46.0,Serious
+Fog,One Way,60,Darkness - no lighting,Evening,2,45.0,Fatal
+Clear,Dual Carriageway,40,Darkness - no lighting,Evening,1,36.0,Serious
+Clear,Single Carriageway,60,Dawn/Dusk,Evening,5,49.0,Fatal
+Clear,One Way,60,Darkness - lights lit,Evening,1,57.0,Serious
+Fog,One Way,50,Darkness - no lighting,Evening,2,,Fatal
+Snow,Single Carriageway,20,Dawn/Dusk,Afternoon,5,52.0,Serious
+Snow,One Way,70,Darkness - lights lit,Night,5,76.0,Fatal
+Clear,Dual Carriageway,50,,Evening,1,38.0,Serious
+Fog,One Way,50,Dawn/Dusk,Afternoon,4,29.0,Serious
+Clear,Roundabout,60,Darkness - lights lit,Morning,1,23.0,Serious
+Clear,Slip Road,60,Dawn/Dusk,Evening,1,24.0,Serious
+Snow,Dual Carriageway,70,Darkness - no lighting,Morning,4,44.0,Fatal
+Clear,Roundabout,40,Dawn/Dusk,Evening,2,61.0,Serious
+Clear,Single Carriageway,40,Darkness - lights lit,Afternoon,2,59.0,Serious
+Clear,Dual Carriageway,50,Darkness - no lighting,Afternoon,5,25.0,Serious
+Clear,Slip Road,30,Darkness - no lighting,Afternoon,3,41.0,Minor
+Clear,Slip Road,30,Daylight,Night,3,72.0,Minor
+,Single Carriageway,40,Daylight,Morning,5,32.0,Serious
+Rain,Single Carriageway,30,Darkness - lights lit,Night,3,26.0,Serious
+Snow,Dual Carriageway,40,Dawn/Dusk,Evening,1,27.0,Serious
+Snow,One Way,60,Dawn/Dusk,Morning,1,47.0,Serious
+Clear,Single Carriageway,50,Darkness - lights lit,Afternoon,4,28.0,Serious
+Clear,One Way,20,Darkness - no lighting,Morning,4,76.0,Serious
+Clear,Roundabout,50,Darkness - lights lit,Afternoon,5,47.0,Fatal
+Rain,Slip Road,40,Darkness - lights lit,Night,5,30.0,Serious
+Clear,One Way,40,Darkness - no lighting,Night,5,67.0,Serious
+Rain,Slip Road,50,Dawn/Dusk,Afternoon,1,60.0,Minor
+Rain,One Way,70,,Afternoon,3,48.0,Fatal
+Rain,Roundabout,40,Dawn/Dusk,Evening,5,66.0,Serious
+Rain,Single Carriageway,30,Darkness - lights lit,Night,5,69.0,Fatal
+Clear,Roundabout,30,Darkness - no lighting,Night,1,33.0,Minor
+Windy,Single Carriageway,40,Darkness - no lighting,Evening,1,51.0,Serious
+Fog,Single Carriageway,40,Daylight,Night,1,17.0,Serious
+Clear,Slip Road,70,Darkness - no lighting,Afternoon,3,45.0,Fatal
+,Roundabout,30,Daylight,Morning,5,67.0,Fatal
+Rain,One Way,40,Darkness - lights lit,Morning,2,77.0,Serious
+Snow,Roundabout,40,Dawn/Dusk,Night,2,20.0,Fatal
+Fog,Slip Road,70,,Evening,5,39.0,Fatal
+Rain,Single Carriageway,70,Darkness - no lighting,Afternoon,5,44.0,Fatal
+Clear,Slip Road,50,Darkness - no lighting,Morning,5,32.0,Serious
+Clear,Dual Carriageway,70,Darkness - lights lit,Afternoon,5,79.0,Fatal
+Rain,Dual Carriageway,20,Daylight,Night,3,28.0,Minor
+Rain,One Way,30,Darkness - lights lit,Night,2,69.0,Fatal
+Clear,Slip Road,50,Dawn/Dusk,Morning,4,37.0,Serious
+Clear,One Way,20,Darkness - lights lit,Night,2,61.0,Minor
+Snow,One Way,40,Dawn/Dusk,Evening,2,33.0,Serious
+Windy,Dual Carriageway,40,Darkness - no lighting,Night,1,56.0,Serious
+Rain,One Way,50,Dawn/Dusk,Night,5,29.0,Serious
+Clear,Dual Carriageway,70,Dawn/Dusk,Night,5,68.0,Fatal
+Clear,Single Carriageway,40,Daylight,Afternoon,5,74.0,Serious
+Clear,Slip Road,60,Dawn/Dusk,Afternoon,1,48.0,Minor
+Windy,One Way,50,Dawn/Dusk,Morning,3,53.0,Serious
+Clear,Dual Carriageway,20,Darkness - lights lit,Morning,3,66.0,Serious
+Rain,Roundabout,50,Darkness - no lighting,Morning,4,31.0,Fatal
+Clear,One Way,30,,Night,3,28.0,Serious
+,Single Carriageway,70,Darkness - lights lit,Afternoon,3,77.0,Fatal
+Fog,Single Carriageway,70,Darkness - no lighting,Evening,5,65.0,Fatal
+Snow,Roundabout,50,Darkness - no lighting,Night,2,73.0,Fatal
+Clear,Dual Carriageway,40,Dawn/Dusk,Night,3,31.0,Serious
+Clear,One Way,40,Dawn/Dusk,Night,3,50.0,Serious
+Clear,Dual Carriageway,60,Daylight,Evening,1,22.0,Serious
+Windy,Single Carriageway,60,Darkness - lights lit,Morning,4,33.0,Fatal
+Snow,Dual Carriageway,70,Darkness - no lighting,Evening,1,64.0,Fatal
+Rain,Single Carriageway,60,Dawn/Dusk,Morning,5,65.0,Fatal
+Rain,Dual Carriageway,20,Darkness - no lighting,Evening,2,73.0,Fatal
+Fog,Roundabout,60,Dawn/Dusk,Afternoon,4,36.0,Fatal
+,Slip Road,20,Daylight,Night,1,25.0,Minor
+Windy,Roundabout,60,Daylight,Night,3,75.0,Fatal
+Rain,Roundabout,70,Darkness - no lighting,Night,3,21.0,Fatal
+Clear,Slip Road,70,Daylight,Morning,4,39.0,Serious
+Rain,Slip Road,20,Darkness - no lighting,Evening,3,,Serious
+Clear,One Way,50,Dawn/Dusk,Afternoon,1,54.0,Minor
+Clear,One Way,70,Darkness - lights lit,Evening,1,72.0,Serious
+Fog,Roundabout,50,Daylight,Night,3,30.0,Serious
+Clear,Roundabout,40,Dawn/Dusk,Afternoon,3,33.0,Minor
+Rain,Single Carriageway,20,Darkness - lights lit,Afternoon,5,73.0,Fatal
+Clear,Single Carriageway,70,Darkness - lights lit,Night,2,35.0,Serious
+Clear,One Way,30,Darkness - lights lit,Evening,4,49.0,Serious
+Clear,One Way,40,Dawn/Dusk,Night,1,17.0,Minor
+Clear,Single Carriageway,50,Dawn/Dusk,Evening,4,29.0,Serious
+Fog,Single Carriageway,70,Darkness - no lighting,Afternoon,5,62.0,Fatal
+Clear,Dual Carriageway,20,Darkness - lights lit,Afternoon,1,43.0,Serious
+Rain,Dual Carriageway,60,Darkness - lights lit,Night,5,22.0,Fatal
+Rain,Single Carriageway,30,Darkness - lights lit,Afternoon,5,75.0,Fatal
+Fog,Dual Carriageway,50,Darkness - no lighting,Morning,3,,Fatal
+Windy,Slip Road,40,Darkness - lights lit,Afternoon,4,49.0,Fatal
+Fog,One Way,20,Dawn/Dusk,Morning,4,46.0,Fatal
+,One Way,30,Darkness - lights lit,Afternoon,3,62.0,Serious
+Clear,Single Carriageway,20,Daylight,Night,4,51.0,Serious
+Clear,Roundabout,70,Dawn/Dusk,Night,3,39.0,Serious
+Rain,Single Carriageway,60,Darkness - no lighting,Morning,1,26.0,Serious
+Clear,Dual Carriageway,40,Darkness - lights lit,Night,5,67.0,Serious
+Rain,Roundabout,20,Daylight,Afternoon,5,35.0,Minor
+,Dual Carriageway,50,Darkness - no lighting,Afternoon,4,67.0,Fatal
+Clear,Slip Road,70,Darkness - no lighting,Night,2,44.0,Fatal
+Fog,Dual Carriageway,70,Dawn/Dusk,Afternoon,5,39.0,Fatal
+Clear,Slip Road,40,Darkness - no lighting,Evening,3,20.0,Serious
+Clear,Slip Road,70,Darkness - no lighting,Evening,2,,Serious
+Fog,Dual Carriageway,50,Darkness - no lighting,Afternoon,2,35.0,Fatal
+Rain,Dual Carriageway,20,Darkness - no lighting,Night,5,58.0,Serious
+Fog,Slip Road,40,Darkness - lights lit,Morning,5,43.0,Fatal
+Rain,Roundabout,70,Darkness - lights lit,Night,5,73.0,Fatal
+Clear,Slip Road,70,Darkness - lights lit,Morning,3,50.0,Fatal
+Snow,One Way,50,Darkness - lights lit,Night,2,,Fatal
+Fog,Slip Road,60,Daylight,Afternoon,4,72.0,Fatal
+Fog,Roundabout,60,Darkness - lights lit,Evening,3,54.0,Fatal
+Clear,One Way,70,Darkness - no lighting,Night,1,,Serious
+Rain,Single Carriageway,20,Darkness - lights lit,Morning,5,23.0,Fatal
+Clear,Single Carriageway,40,Darkness - lights lit,Evening,2,64.0,Serious
+,Roundabout,70,Dawn/Dusk,Morning,3,77.0,Serious
+Windy,Slip Road,30,Darkness - no lighting,Afternoon,1,23.0,Serious
+Clear,Dual Carriageway,40,Darkness - lights lit,Evening,3,66.0,Serious
+Windy,Roundabout,60,Darkness - lights lit,Morning,3,68.0,Fatal
+Rain,One Way,70,,Night,4,42.0,Fatal
+Clear,One Way,50,Daylight,Afternoon,4,42.0,Serious
+Rain,Single Carriageway,30,Darkness - lights lit,Afternoon,3,70.0,Fatal
+Snow,One Way,70,Dawn/Dusk,Afternoon,1,,Fatal
+Fog,Roundabout,20,Darkness - no lighting,Night,2,25.0,Serious
+Snow,One Way,30,Darkness - no lighting,Night,2,77.0,Fatal
+Fog,Roundabout,70,Darkness - lights lit,Evening,5,36.0,Fatal
+Fog,Dual Carriageway,20,Darkness - lights lit,Night,5,58.0,Serious
+Snow,Single Carriageway,30,Darkness - lights lit,Evening,2,61.0,Serious
+Clear,One Way,20,Darkness - no lighting,Afternoon,3,66.0,Serious
+Rain,Roundabout,20,Darkness - no lighting,Evening,3,32.0,Serious
+Clear,Slip Road,30,Daylight,Morning,4,,Minor
+Windy,Single Carriageway,30,Dawn/Dusk,Afternoon,4,33.0,Serious
+Windy,Dual Carriageway,20,Daylight,Afternoon,5,38.0,Minor
+Clear,Roundabout,60,Dawn/Dusk,Evening,2,29.0,Serious
+Fog,Dual Carriageway,30,Daylight,Afternoon,3,28.0,Serious
+Windy,Dual Carriageway,70,Darkness - no lighting,Night,2,26.0,Fatal
+Clear,One Way,40,Daylight,Morning,1,17.0,Minor
+Rain,One Way,50,Dawn/Dusk,Evening,2,48.0,Serious
+Windy,Roundabout,20,Darkness - lights lit,Evening,1,46.0,Minor
+Clear,Slip Road,20,,Afternoon,4,24.0,Serious
+Fog,Roundabout,50,Darkness - lights lit,Night,4,37.0,Fatal
+,Slip Road,60,Darkness - no lighting,Afternoon,5,38.0,Fatal
+Windy,Dual Carriageway,50,Dawn/Dusk,Afternoon,2,34.0,Serious
+Windy,Single Carriageway,30,Daylight,Evening,2,18.0,Serious
+Windy,Roundabout,50,Dawn/Dusk,Afternoon,1,64.0,Serious
+Rain,Roundabout,20,Darkness - lights lit,Morning,4,60.0,Serious
+Snow,Slip Road,50,Darkness - no lighting,Afternoon,1,25.0,Fatal
+Snow,Dual Carriageway,40,Daylight,Afternoon,4,19.0,Serious
+Clear,Dual Carriageway,70,Dawn/Dusk,Evening,1,70.0,Serious
+Snow,Slip Road,30,Darkness - lights lit,Afternoon,4,42.0,Serious
+Clear,Dual Carriageway,50,Daylight,Night,1,37.0,Minor
+Rain,One Way,20,Darkness - no lighting,Evening,4,46.0,Fatal
+Clear,Single Carriageway,70,Daylight,Afternoon,1,44.0,Serious
+Clear,Roundabout,30,,Morning,2,52.0,Serious
+Clear,Single Carriageway,20,Daylight,Morning,5,42.0,Minor
+Fog,Roundabout,60,Dawn/Dusk,Evening,1,50.0,Fatal
+Clear,One Way,40,Darkness - lights lit,Evening,5,,Fatal
+Fog,Dual Carriageway,60,Dawn/Dusk,Afternoon,2,26.0,Fatal
+,Slip Road,40,,Night,2,64.0,Serious
+,One Way,50,,Afternoon,4,71.0,Serious
+Rain,Single Carriageway,30,Darkness - no lighting,Morning,5,59.0,Fatal
+Fog,Slip Road,50,Darkness - no lighting,Night,3,66.0,Fatal
+Clear,Dual Carriageway,40,Dawn/Dusk,Night,4,,Serious
+Rain,One Way,40,Daylight,Night,5,30.0,Serious
+Snow,Slip Road,40,Daylight,Afternoon,1,56.0,Serious
+Rain,One Way,70,Dawn/Dusk,Morning,1,,Serious
+Clear,One Way,20,Dawn/Dusk,Evening,2,31.0,Minor
+Clear,Dual Carriageway,30,Darkness - lights lit,Afternoon,3,,Serious
+Snow,Roundabout,50,Darkness - no lighting,Evening,1,69.0,Fatal
+Clear,Slip Road,50,Darkness - no lighting,Night,5,34.0,Serious
+Snow,Dual Carriageway,60,Dawn/Dusk,Night,5,48.0,Fatal
+Rain,One Way,40,Dawn/Dusk,Afternoon,1,54.0,Minor
+Windy,Dual Carriageway,40,Daylight,Morning,5,39.0,Serious
+Fog,Roundabout,40,Dawn/Dusk,Night,5,78.0,Fatal
+Windy,Slip Road,50,Daylight,Evening,2,62.0,Minor
+Clear,Roundabout,60,Dawn/Dusk,Evening,3,39.0,Serious
+Fog,Single Carriageway,20,Darkness - lights lit,Afternoon,2,51.0,Fatal
+Rain,Slip Road,70,Darkness - lights lit,Evening,3,55.0,Fatal
+Rain,Roundabout,30,Daylight,Morning,5,31.0,Serious
+Rain,One Way,20,Darkness - no lighting,Night,3,69.0,Serious
+Snow,Slip Road,50,Darkness - lights lit,Evening,5,40.0,Fatal
+Windy,Slip Road,70,Daylight,Evening,5,79.0,Fatal
+Fog,Dual Carriageway,70,Dawn/Dusk,Night,2,44.0,Fatal
+Rain,One Way,70,Dawn/Dusk,Afternoon,2,32.0,Serious
+,Single Carriageway,40,Daylight,Evening,4,32.0,Serious
+Fog,Roundabout,30,Darkness - no lighting,Afternoon,1,56.0,Serious
+Clear,Dual Carriageway,50,Daylight,Afternoon,4,55.0,Minor
+Clear,Roundabout,50,Daylight,Evening,4,22.0,Serious
+Clear,Single Carriageway,70,Darkness - lights lit,Morning,3,18.0,Serious
+Clear,Single Carriageway,50,Daylight,Afternoon,5,70.0,Serious
+Clear,Slip Road,30,Daylight,Evening,5,29.0,Minor
+Clear,Single Carriageway,30,Dawn/Dusk,Afternoon,5,60.0,Serious
+Clear,Roundabout,60,Darkness - lights lit,Night,1,63.0,Serious
+Clear,One Way,60,Dawn/Dusk,Morning,3,75.0,Serious
+Windy,One Way,20,Dawn/Dusk,Morning,3,25.0,Minor
+Rain,Slip Road,30,,Night,5,79.0,Fatal
+Clear,Roundabout,30,Darkness - no lighting,Night,4,50.0,Serious
+Fog,Roundabout,30,Darkness - lights lit,Afternoon,1,33.0,Serious
+Clear,Single Carriageway,60,Darkness - lights lit,Night,4,43.0,Fatal
+Windy,Roundabout,70,Darkness - no lighting,Morning,2,45.0,Fatal
+Fog,Dual Carriageway,70,Darkness - no lighting,Night,3,53.0,Fatal
+Clear,Single Carriageway,50,Darkness - no lighting,Evening,3,59.0,Serious
+Rain,Dual Carriageway,70,Darkness - no lighting,Evening,4,38.0,Fatal
+Snow,Slip Road,40,Darkness - no lighting,Afternoon,1,,Fatal
+Windy,One Way,60,Dawn/Dusk,Morning,3,40.0,Serious
+Rain,Slip Road,30,Darkness - lights lit,Evening,4,23.0,Serious
+Rain,One Way,70,Dawn/Dusk,Night,1,50.0,Serious
+Clear,Slip Road,60,Dawn/Dusk,Evening,4,64.0,Serious
+Windy,Roundabout,70,Daylight,Evening,1,28.0,Serious
+Clear,Dual Carriageway,20,Dawn/Dusk,Afternoon,5,39.0,Minor
+Windy,One Way,30,,Night,1,31.0,Serious
+Rain,Single Carriageway,20,Darkness - no lighting,Night,2,79.0,Serious
+Rain,Dual Carriageway,30,Daylight,Night,5,49.0,Minor
+,Single Carriageway,60,Daylight,Afternoon,4,73.0,Fatal
+Clear,Dual Carriageway,50,Daylight,Night,5,29.0,Serious
+Clear,Dual Carriageway,70,Daylight,Night,5,39.0,Serious
+Clear,Slip Road,70,Daylight,Evening,4,54.0,Serious
+Clear,One Way,40,Dawn/Dusk,Evening,4,48.0,Serious
+Fog,One Way,20,,Night,2,61.0,Minor
+Clear,Dual Carriageway,70,Dawn/Dusk,Morning,4,66.0,Fatal
+Clear,Roundabout,60,Darkness - lights lit,Morning,3,51.0,Serious
+Windy,Roundabout,50,Daylight,Night,3,17.0,Serious
+Snow,Single Carriageway,60,Daylight,Morning,2,63.0,Serious
+Windy,Single Carriageway,20,Dawn/Dusk,Afternoon,1,74.0,Minor
+Windy,Slip Road,40,Darkness - lights lit,Evening,1,61.0,Serious
+,Dual Carriageway,70,Dawn/Dusk,Afternoon,3,21.0,Serious
+Clear,Single Carriageway,60,Dawn/Dusk,Evening,4,73.0,Fatal
+,Single Carriageway,30,Daylight,Morning,2,,Serious
+Fog,Dual Carriageway,50,Darkness - no lighting,Morning,1,70.0,Fatal
+Clear,Slip Road,60,Darkness - no lighting,Night,1,21.0,Serious
+Snow,Single Carriageway,50,Dawn/Dusk,Morning,5,76.0,Fatal
+Clear,Slip Road,70,Daylight,Morning,3,48.0,Serious
+Clear,One Way,30,Darkness - lights lit,Night,4,,Fatal
+Rain,Slip Road,40,Darkness - no lighting,Night,2,,Serious
+Rain,Roundabout,40,Darkness - lights lit,Evening,1,40.0,Serious
+Rain,Roundabout,30,Darkness - no lighting,Morning,5,,Serious
+Clear,Slip Road,50,Daylight,Evening,3,34.0,Serious
+Snow,Roundabout,70,Dawn/Dusk,Evening,3,37.0,Fatal
+Clear,One Way,60,Darkness - lights lit,Afternoon,2,70.0,Fatal
+Clear,Dual Carriageway,30,Darkness - lights lit,Morning,1,26.0,Minor
+Snow,Roundabout,20,Dawn/Dusk,Morning,2,40.0,Serious
+Windy,Roundabout,50,Darkness - lights lit,Afternoon,2,56.0,Fatal
+Snow,Slip Road,40,Darkness - no lighting,Evening,5,,Fatal
+Snow,One Way,30,Dawn/Dusk,Morning,3,37.0,Serious
+Fog,Dual Carriageway,40,Darkness - no lighting,Evening,4,41.0,Fatal
+Rain,Slip Road,50,Darkness - no lighting,Afternoon,3,68.0,Fatal
+Clear,Slip Road,40,Daylight,Night,3,76.0,Serious
+Rain,One Way,30,Darkness - no lighting,Evening,5,73.0,Fatal
+Clear,Dual Carriageway,50,Daylight,Morning,4,75.0,Serious
+Clear,One Way,20,,Night,1,39.0,Serious
+Fog,Dual Carriageway,30,Darkness - lights lit,Evening,4,38.0,Fatal
+Rain,One Way,60,Daylight,Evening,1,20.0,Serious
+Clear,Slip Road,70,Darkness - no lighting,Night,4,50.0,Fatal
+Clear,Slip Road,30,Dawn/Dusk,Night,2,72.0,Serious
+Fog,Single Carriageway,50,Dawn/Dusk,Night,4,22.0,Fatal
+Clear,Roundabout,70,Daylight,Morning,5,44.0,Serious
+Snow,One Way,30,Darkness - lights lit,Morning,1,47.0,Serious
+Rain,Single Carriageway,20,Darkness - lights lit,Evening,3,51.0,Serious
+Rain,Roundabout,20,Dawn/Dusk,Evening,5,55.0,Serious
+Rain,One Way,60,,Afternoon,1,58.0,Serious
+Snow,Dual Carriageway,40,Dawn/Dusk,Morning,1,39.0,Serious
+Clear,Roundabout,70,Darkness - no lighting,Evening,3,22.0,Serious
+Fog,Slip Road,50,Darkness - no lighting,Night,2,32.0,Fatal
+Rain,Single Carriageway,50,Daylight,Night,5,18.0,Serious
+Clear,Roundabout,40,Daylight,Morning,3,40.0,Minor
+Snow,Roundabout,20,Darkness - no lighting,Night,3,33.0,Serious
+Fog,Slip Road,20,Darkness - lights lit,Afternoon,2,61.0,Serious
+Fog,One Way,30,Daylight,Evening,5,17.0,Serious
+Snow,Dual Carriageway,60,Darkness - no lighting,Evening,3,22.0,Fatal
+Snow,Slip Road,70,Darkness - no lighting,Evening,2,21.0,Fatal
+Fog,Dual Carriageway,60,Darkness - lights lit,Morning,5,73.0,Fatal
+Snow,One Way,60,Darkness - lights lit,Night,4,61.0,Fatal
+Fog,Roundabout,30,,Afternoon,1,76.0,Fatal
+Fog,Dual Carriageway,60,Darkness - lights lit,Morning,2,71.0,Fatal
+Rain,Single Carriageway,40,Dawn/Dusk,Evening,1,,Serious
+Fog,Single Carriageway,30,Darkness - lights lit,Afternoon,4,45.0,Serious
+Clear,Slip Road,40,Dawn/Dusk,Evening,3,28.0,Serious
+Snow,One Way,30,Daylight,Evening,3,55.0,Minor
+Snow,Slip Road,60,Darkness - no lighting,Morning,5,63.0,Fatal
+Clear,Slip Road,40,Dawn/Dusk,Evening,2,19.0,Serious
+Snow,Slip Road,40,Daylight,Afternoon,2,64.0,Serious
+Clear,Single Carriageway,40,,Evening,5,17.0,Serious
+Clear,Single Carriageway,30,Dawn/Dusk,Night,1,43.0,Minor
+Fog,Slip Road,50,Daylight,Evening,3,64.0,Serious
+Clear,Single Carriageway,60,Daylight,Morning,3,40.0,Serious
+Snow,One Way,40,Dawn/Dusk,Afternoon,2,78.0,Fatal
+Snow,Slip Road,70,Daylight,Morning,2,60.0,Serious
+Rain,Single Carriageway,50,Darkness - lights lit,Night,5,35.0,Serious
+Clear,Dual Carriageway,70,Darkness - lights lit,Evening,4,75.0,Fatal
+Clear,Slip Road,60,Darkness - no lighting,Morning,1,24.0,Fatal
+Rain,Slip Road,60,Daylight,Morning,4,71.0,Serious
+Windy,One Way,40,Darkness - no lighting,Morning,4,,Fatal
+Rain,Roundabout,40,Darkness - lights lit,Morning,2,63.0,Serious
+Clear,Roundabout,30,Darkness - lights lit,Night,2,18.0,Serious
+Rain,One Way,50,Darkness - lights lit,Night,2,77.0,Serious
+Rain,One Way,50,Daylight,Evening,4,46.0,Serious
+Fog,One Way,40,Daylight,Evening,1,46.0,Serious
+Clear,Roundabout,60,Darkness - lights lit,Afternoon,2,65.0,Fatal
+Fog,One Way,40,Darkness - no lighting,Night,3,55.0,Fatal
+Rain,Single Carriageway,60,Darkness - no lighting,Morning,1,61.0,Fatal
+Windy,Slip Road,60,Dawn/Dusk,Morning,3,48.0,Serious
+Clear,Slip Road,40,Darkness - lights lit,Afternoon,1,17.0,Serious
+Rain,Dual Carriageway,20,Darkness - no lighting,Morning,2,54.0,Serious
+Windy,Dual Carriageway,50,Darkness - lights lit,Afternoon,5,29.0,Fatal
+Clear,Slip Road,70,Darkness - no lighting,Evening,2,27.0,Fatal
+Windy,Single Carriageway,60,Dawn/Dusk,Night,4,26.0,Fatal
+Fog,Roundabout,60,Dawn/Dusk,Afternoon,4,64.0,Fatal
+Clear,Roundabout,20,Darkness - lights lit,Morning,1,75.0,Serious
+Clear,Single Carriageway,70,Darkness - no lighting,Afternoon,4,42.0,Fatal
+Fog,Roundabout,30,Daylight,Evening,2,72.0,Serious
+,One Way,20,Dawn/Dusk,Morning,3,71.0,Minor
+Rain,Slip Road,70,Darkness - lights lit,Evening,2,36.0,Fatal
+Clear,Slip Road,20,Darkness - lights lit,Evening,1,33.0,Minor
+Rain,Single Carriageway,60,Darkness - no lighting,Afternoon,4,33.0,Fatal
+Clear,Roundabout,50,Darkness - lights lit,Evening,3,20.0,Serious
+Snow,Dual Carriageway,20,Dawn/Dusk,Morning,5,21.0,Fatal
+Windy,Dual Carriageway,30,Darkness - lights lit,Evening,3,76.0,Serious
+Windy,Roundabout,40,Darkness - lights lit,Evening,3,39.0,Serious
+Fog,Dual Carriageway,70,Daylight,Afternoon,2,62.0,Serious
+Clear,Single Carriageway,20,Daylight,Evening,5,68.0,Serious
+Fog,Single Carriageway,20,,Night,1,26.0,Serious
+Clear,Roundabout,30,Darkness - no lighting,Afternoon,1,62.0,Minor
+Clear,Dual Carriageway,50,Daylight,Afternoon,3,44.0,Serious
+Clear,Single Carriageway,20,Darkness - no lighting,Morning,3,49.0,Serious
+Rain,Single Carriageway,20,Dawn/Dusk,Morning,4,59.0,Serious
+Fog,One Way,50,Daylight,Morning,5,42.0,Serious
+Fog,One Way,30,Darkness - no lighting,Morning,3,71.0,Serious
+Rain,Single Carriageway,70,Daylight,Night,4,66.0,Fatal
+Clear,Roundabout,70,Dawn/Dusk,Afternoon,5,64.0,Serious
+Windy,Slip Road,20,Dawn/Dusk,Evening,1,45.0,Minor
+Rain,Slip Road,50,Daylight,Morning,4,43.0,Serious
+Rain,Single Carriageway,20,Darkness - no lighting,Morning,5,34.0,Serious
+Clear,Single Carriageway,40,Darkness - lights lit,Morning,4,56.0,Serious
+Fog,Single Carriageway,70,Darkness - lights lit,Evening,3,,Fatal
+Fog,Roundabout,60,Daylight,Morning,2,26.0,Fatal
+Clear,One Way,40,Darkness - no lighting,Evening,1,,Serious
+Clear,Single Carriageway,20,Darkness - lights lit,Afternoon,3,58.0,Serious
+Fog,Single Carriageway,30,Dawn/Dusk,Afternoon,3,21.0,Fatal
+Fog,Dual Carriageway,70,Darkness - no lighting,Afternoon,5,26.0,Fatal
+Clear,Roundabout,60,Darkness - lights lit,Night,4,66.0,Fatal
+Windy,Single Carriageway,40,Darkness - no lighting,Evening,1,,Serious
+Clear,Dual Carriageway,70,Daylight,Morning,3,40.0,Minor
+Rain,Slip Road,50,Darkness - no lighting,Morning,5,54.0,Fatal
+Windy,Single Carriageway,30,Darkness - lights lit,Morning,1,19.0,Serious
+Rain,Single Carriageway,40,Daylight,Morning,4,56.0,Serious
+Rain,Dual Carriageway,50,Darkness - no lighting,Night,3,47.0,Serious
+Clear,Roundabout,20,Dawn/Dusk,Morning,3,78.0,Serious
+Clear,Single Carriageway,50,Darkness - lights lit,Night,3,57.0,Serious
+Windy,Slip Road,40,Daylight,Evening,1,53.0,Minor
+Rain,Single Carriageway,40,Darkness - no lighting,Afternoon,1,77.0,Fatal
+Snow,Slip Road,20,Dawn/Dusk,Morning,1,18.0,Serious
+Clear,One Way,50,,Afternoon,1,18.0,Serious
+Clear,One Way,50,Dawn/Dusk,Evening,5,55.0,Serious
+Clear,Slip Road,20,Darkness - no lighting,Evening,2,65.0,Serious
+Fog,Roundabout,50,Darkness - no lighting,Morning,5,58.0,Fatal
+Clear,Single Carriageway,70,Daylight,Evening,3,60.0,Serious
+Snow,Single Carriageway,20,Dawn/Dusk,Afternoon,5,50.0,Fatal
+Rain,One Way,30,Daylight,Morning,4,58.0,Serious
+Windy,Slip Road,40,Darkness - lights lit,Night,1,36.0,Serious
+Clear,Single Carriageway,30,Daylight,Morning,4,49.0,Minor
+Snow,Single Carriageway,70,Darkness - lights lit,Afternoon,4,20.0,Fatal
+Fog,Roundabout,70,Darkness - no lighting,Morning,3,61.0,Fatal
+Fog,Dual Carriageway,60,,Morning,1,60.0,Fatal
+Snow,One Way,60,Dawn/Dusk,Afternoon,4,27.0,Fatal
+Fog,One Way,60,Darkness - lights lit,Morning,3,77.0,Fatal
+Rain,Dual Carriageway,20,Darkness - no lighting,Morning,1,58.0,Minor
+Clear,Single Carriageway,50,Dawn/Dusk,Afternoon,2,63.0,Serious
+Clear,Roundabout,70,Dawn/Dusk,Evening,3,21.0,Serious
+Windy,Roundabout,30,Daylight,Afternoon,5,41.0,Serious
+Rain,One Way,30,Dawn/Dusk,Morning,1,65.0,Minor
+Fog,Roundabout,30,Darkness - no lighting,Night,4,76.0,Fatal
+Rain,Dual Carriageway,30,Daylight,Night,4,53.0,Minor
+Clear,Single Carriageway,60,Darkness - lights lit,Afternoon,5,50.0,Fatal
+Clear,Dual Carriageway,30,Darkness - lights lit,Night,5,25.0,Serious
+Fog,Slip Road,50,Darkness - no lighting,Morning,4,22.0,Fatal
+Rain,One Way,60,Darkness - no lighting,Morning,1,34.0,Serious
+Clear,Roundabout,30,Daylight,Afternoon,3,30.0,Minor
+Rain,Slip Road,20,Daylight,Morning,5,35.0,Minor
+,Roundabout,40,Darkness - no lighting,Evening,5,30.0,Fatal
+,Single Carriageway,40,Darkness - no lighting,Morning,5,56.0,Serious
+Clear,Single Carriageway,40,Darkness - lights lit,Afternoon,2,33.0,Serious
+Fog,Single Carriageway,60,Darkness - lights lit,Evening,1,76.0,Fatal
+Clear,Roundabout,30,Darkness - lights lit,Evening,1,51.0,Minor
+Rain,Slip Road,70,Darkness - no lighting,Night,1,45.0,Serious
+Clear,Single Carriageway,70,Dawn/Dusk,Morning,1,58.0,Minor
+Clear,Slip Road,70,Darkness - no lighting,Afternoon,1,33.0,Serious
+Clear,Roundabout,60,Darkness - no lighting,Night,4,75.0,Fatal
+Rain,Slip Road,50,Darkness - lights lit,Night,5,59.0,Fatal
+,Roundabout,20,Darkness - no lighting,Morning,4,24.0,Serious
+Clear,Roundabout,20,Daylight,Morning,2,17.0,Minor
+Fog,One Way,40,Darkness - no lighting,Afternoon,3,61.0,Serious
+Snow,Roundabout,40,,Night,5,69.0,Fatal
+Fog,Roundabout,70,Darkness - no lighting,Afternoon,2,52.0,Fatal
+Clear,Dual Carriageway,70,Darkness - no lighting,Night,4,23.0,Fatal
+Rain,Single Carriageway,40,Dawn/Dusk,Night,3,62.0,Serious
+Clear,One Way,30,Darkness - no lighting,Night,2,21.0,Serious
+Clear,One Way,50,Daylight,Morning,3,40.0,Minor
+Windy,One Way,50,Daylight,Night,2,44.0,Serious
+Clear,Dual Carriageway,50,Darkness - no lighting,Night,4,78.0,Fatal
+Rain,Roundabout,50,Darkness - lights lit,Night,3,59.0,Serious
+Rain,Single Carriageway,40,Dawn/Dusk,Evening,2,33.0,Serious
+Fog,Slip Road,20,Darkness - no lighting,Morning,4,53.0,Fatal
+Rain,Roundabout,40,Darkness - no lighting,Evening,5,36.0,Fatal
+Clear,Dual Carriageway,50,,Morning,4,19.0,Fatal
+,Roundabout,40,Darkness - lights lit,Afternoon,4,53.0,Fatal
+Rain,Roundabout,50,Darkness - lights lit,Evening,5,42.0,Serious
+Clear,Dual Carriageway,60,Darkness - lights lit,Afternoon,4,31.0,Fatal
+Clear,One Way,70,Dawn/Dusk,Night,5,67.0,Fatal
+,One Way,20,Daylight,Afternoon,5,64.0,Minor
+Clear,Single Carriageway,60,Dawn/Dusk,Afternoon,5,24.0,Serious
+Clear,Single Carriageway,30,Darkness - lights lit,Afternoon,2,29.0,Minor
+Clear,One Way,40,Daylight,Afternoon,3,64.0,Minor
+Rain,Slip Road,30,Daylight,Morning,2,19.0,Serious
+Fog,Roundabout,40,Darkness - lights lit,Evening,5,17.0,Fatal
+Snow,Slip Road,70,Darkness - lights lit,Morning,3,25.0,Fatal
+Clear,Roundabout,60,Dawn/Dusk,Morning,3,47.0,Serious
+Clear,One Way,70,Darkness - lights lit,Morning,5,57.0,Fatal
+Clear,Single Carriageway,50,Daylight,Afternoon,3,70.0,Serious
+Rain,Single Carriageway,70,Darkness - no lighting,Morning,3,42.0,Fatal
+Fog,Slip Road,70,Darkness - lights lit,Evening,2,33.0,Fatal
+Clear,Single Carriageway,50,Darkness - lights lit,Morning,3,72.0,Serious
+Windy,One Way,40,Dawn/Dusk,Night,5,50.0,Fatal
+Clear,Slip Road,50,Dawn/Dusk,Afternoon,1,25.0,Minor
+Rain,Roundabout,60,Darkness - lights lit,Night,1,,Fatal
+Fog,Single Carriageway,70,Daylight,Evening,1,72.0,Serious
+Snow,Dual Carriageway,50,Daylight,Evening,5,67.0,Serious
+Fog,Single Carriageway,70,Darkness - no lighting,Evening,1,29.0,Fatal
+Snow,Roundabout,60,Darkness - lights lit,Evening,2,21.0,Fatal
+Clear,Slip Road,30,Dawn/Dusk,Morning,5,57.0,Minor
+Snow,Roundabout,60,Daylight,Afternoon,5,29.0,Fatal
+Clear,Dual Carriageway,20,Darkness - no lighting,Evening,5,17.0,Fatal
+Snow,One Way,20,Darkness - lights lit,Night,3,41.0,Fatal
+Rain,Single Carriageway,20,Daylight,Evening,3,63.0,Minor
+Snow,Slip Road,70,Darkness - lights lit,Afternoon,3,20.0,Fatal
+Rain,One Way,40,Darkness - lights lit,Night,4,52.0,Fatal
+Rain,Roundabout,40,Daylight,Night,2,79.0,Serious
+Rain,Slip Road,40,Daylight,Night,5,68.0,Serious
+,One Way,70,Daylight,Morning,5,26.0,Fatal
+Clear,Slip Road,60,Darkness - lights lit,Evening,3,44.0,Fatal
+Clear,Dual Carriageway,40,Darkness - lights lit,Morning,5,73.0,Serious
+Clear,Dual Carriageway,30,Darkness - no lighting,Night,5,78.0,Serious
+Clear,Single Carriageway,20,,Morning,1,22.0,Minor
+Snow,Single Carriageway,60,Darkness - lights lit,Morning,5,43.0,Fatal
+Clear,Dual Carriageway,20,Dawn/Dusk,Morning,4,72.0,Serious
+Windy,Slip Road,40,Daylight,Evening,3,28.0,Serious
+Clear,Dual Carriageway,60,Darkness - lights lit,Night,2,78.0,Fatal
+Clear,Single Carriageway,50,Darkness - no lighting,Night,2,68.0,Fatal
+Fog,Dual Carriageway,30,Darkness - no lighting,Evening,1,64.0,Serious
+Fog,Dual Carriageway,40,Dawn/Dusk,Morning,2,19.0,Serious
+Rain,Slip Road,40,Daylight,Morning,2,62.0,Serious
+Rain,One Way,30,Dawn/Dusk,Afternoon,3,49.0,Serious
+Fog,Single Carriageway,30,Daylight,Afternoon,3,26.0,Serious
+Clear,Slip Road,50,Darkness - no lighting,Afternoon,4,47.0,Serious
+Windy,Dual Carriageway,40,Dawn/Dusk,Evening,1,31.0,Serious
+Windy,Dual Carriageway,70,Darkness - no lighting,Night,2,23.0,Fatal
+Fog,One Way,40,Darkness - no lighting,Afternoon,4,52.0,Fatal
+Clear,Single Carriageway,20,Daylight,Night,1,,Minor
+Fog,Single Carriageway,60,Dawn/Dusk,Night,2,72.0,Fatal
+Clear,Roundabout,60,Dawn/Dusk,Night,2,64.0,Serious
+Clear,Single Carriageway,20,,Evening,3,30.0,Serious
+Clear,One Way,60,,Evening,5,19.0,Fatal
+Rain,Roundabout,30,Daylight,Evening,1,65.0,Minor
+Snow,Roundabout,60,Darkness - lights lit,Evening,2,69.0,Fatal
+Fog,Dual Carriageway,60,Darkness - lights lit,Afternoon,1,,Fatal
+Fog,Dual Carriageway,20,Darkness - no lighting,Morning,4,66.0,Fatal
+Rain,Single Carriageway,50,Darkness - lights lit,Morning,4,19.0,Fatal
+Clear,Roundabout,60,Darkness - lights lit,Morning,5,78.0,Fatal
+Clear,Dual Carriageway,70,Darkness - lights lit,Afternoon,2,38.0,Serious
+Windy,One Way,60,Darkness - lights lit,Morning,3,35.0,Fatal
+Clear,Dual Carriageway,50,Darkness - no lighting,Afternoon,2,51.0,Serious
+Snow,Dual Carriageway,20,Darkness - lights lit,Afternoon,1,28.0,Serious
+Rain,Roundabout,50,Darkness - lights lit,Afternoon,4,70.0,Fatal
+Rain,Roundabout,20,Daylight,Morning,1,21.0,Minor
+Fog,Slip Road,30,Darkness - no lighting,Night,5,26.0,Fatal
+Rain,One Way,20,Dawn/Dusk,Morning,4,57.0,Serious
+Snow,Roundabout,30,Dawn/Dusk,Morning,3,49.0,Serious
+Windy,Single Carriageway,30,Daylight,Evening,4,29.0,Serious
+Rain,One Way,20,Daylight,Afternoon,2,51.0,Minor
+,One Way,70,,Night,2,67.0,Fatal
+Rain,Roundabout,40,Dawn/Dusk,Evening,4,48.0,Serious
+Windy,One Way,20,Darkness - lights lit,Night,5,27.0,Serious
+Clear,Roundabout,60,Daylight,Night,2,,Minor
+Rain,Dual Carriageway,70,Dawn/Dusk,Afternoon,2,54.0,Fatal
+Rain,Slip Road,70,Darkness - no lighting,Morning,3,40.0,Serious
+Fog,Dual Carriageway,60,Darkness - lights lit,Afternoon,4,51.0,Fatal
+Clear,Roundabout,40,Darkness - no lighting,Afternoon,2,35.0,Serious
+Fog,Roundabout,70,Daylight,Evening,5,22.0,Fatal
+Windy,Dual Carriageway,30,Dawn/Dusk,Afternoon,1,56.0,Minor
+Clear,Single Carriageway,40,Dawn/Dusk,Morning,4,70.0,Fatal
+Clear,Single Carriageway,60,Dawn/Dusk,Night,3,61.0,Serious
+Windy,Single Carriageway,40,Dawn/Dusk,Afternoon,2,,Serious
+Clear,Roundabout,20,Darkness - lights lit,Night,5,78.0,Fatal
+Snow,One Way,40,Darkness - lights lit,Afternoon,4,58.0,Fatal
+Rain,Roundabout,30,Darkness - no lighting,Night,5,51.0,Serious
+Clear,One Way,20,Darkness - lights lit,Afternoon,5,20.0,Fatal
+Snow,Dual Carriageway,50,Daylight,Evening,3,49.0,Serious
+Rain,Slip Road,60,Daylight,Night,4,29.0,Serious
+Rain,One Way,60,Dawn/Dusk,Afternoon,2,72.0,Fatal
+,Single Carriageway,40,Daylight,Afternoon,3,52.0,Minor
+Rain,Roundabout,70,Darkness - no lighting,Evening,2,70.0,Fatal
+Clear,Dual Carriageway,20,Darkness - lights lit,Evening,1,59.0,Serious
+Clear,Single Carriageway,50,Darkness - lights lit,Evening,5,35.0,Serious
+Windy,Dual Carriageway,20,Darkness - lights lit,Night,1,59.0,Minor
+Clear,Slip Road,60,Daylight,Night,5,28.0,Serious
+Fog,Roundabout,20,Darkness - lights lit,Evening,3,27.0,Serious
+Clear,Roundabout,50,Dawn/Dusk,Morning,2,22.0,Serious
+Fog,Slip Road,70,Dawn/Dusk,Morning,2,28.0,Fatal
+Clear,Roundabout,40,Dawn/Dusk,Afternoon,3,43.0,Serious
+Windy,One Way,30,Daylight,Morning,4,57.0,Serious
+Rain,Dual Carriageway,20,Darkness - lights lit,Afternoon,1,41.0,Minor
+Clear,Single Carriageway,30,Daylight,Night,1,58.0,Minor
+Clear,Slip Road,60,Darkness - lights lit,Night,2,19.0,Fatal
+Clear,One Way,40,Darkness - no lighting,Morning,2,19.0,Fatal
+Rain,Single Carriageway,40,Darkness - no lighting,Night,2,36.0,Serious
+Clear,Single Carriageway,20,Daylight,Evening,3,44.0,Minor
+Snow,Slip Road,70,Dawn/Dusk,Evening,4,39.0,Fatal
+Rain,One Way,40,Daylight,Morning,1,64.0,Serious
+Clear,Single Carriageway,20,Dawn/Dusk,Morning,5,19.0,Serious
+Rain,Single Carriageway,20,Darkness - lights lit,Afternoon,3,58.0,Serious
+Fog,One Way,30,Dawn/Dusk,Night,1,40.0,Serious
+Clear,Roundabout,40,Dawn/Dusk,Afternoon,4,,Serious
+,Single Carriageway,20,Darkness - lights lit,Afternoon,3,,Minor
+Clear,Dual Carriageway,30,Darkness - no lighting,Evening,1,22.0,Serious
+Fog,One Way,50,,Evening,3,36.0,Serious
+Fog,Single Carriageway,30,Daylight,Evening,1,27.0,Serious
+Rain,Slip Road,30,Daylight,Evening,1,48.0,Minor
+Snow,Dual Carriageway,20,Daylight,Afternoon,4,76.0,Serious
+Snow,Single Carriageway,60,Daylight,Evening,5,43.0,Fatal
+Rain,Dual Carriageway,60,Daylight,Night,4,37.0,Serious
+Snow,Dual Carriageway,70,,Evening,1,60.0,Fatal
+Clear,Roundabout,60,Darkness - no lighting,Evening,3,64.0,Serious
+Clear,Dual Carriageway,30,Dawn/Dusk,Evening,4,66.0,Serious
+Clear,Roundabout,70,Daylight,Morning,5,29.0,Serious
+Clear,One Way,20,Darkness - lights lit,Night,1,38.0,Minor
+Rain,Roundabout,40,Daylight,Night,4,51.0,Serious
+Windy,Slip Road,30,Darkness - no lighting,Afternoon,4,63.0,Fatal
+Clear,Single Carriageway,30,Daylight,Afternoon,4,38.0,Minor
+Clear,One Way,70,Darkness - no lighting,Evening,4,44.0,Fatal
+Rain,One Way,20,Dawn/Dusk,Morning,3,37.0,Serious
+Windy,Slip Road,50,Dawn/Dusk,Afternoon,5,62.0,Serious
+Clear,Roundabout,30,Dawn/Dusk,Afternoon,5,34.0,Serious
+Rain,Single Carriageway,50,Darkness - no lighting,Evening,1,47.0,Serious
+Clear,Roundabout,50,Daylight,Evening,2,76.0,Serious
+Clear,Dual Carriageway,60,Daylight,Afternoon,3,77.0,Serious
+Windy,Roundabout,20,Darkness - lights lit,Afternoon,1,,Serious
+Windy,One Way,50,Darkness - no lighting,Night,1,53.0,Serious
+Clear,Single Carriageway,20,Darkness - lights lit,Morning,4,37.0,Serious
+Windy,Roundabout,60,Dawn/Dusk,Night,2,30.0,Fatal
+Rain,Single Carriageway,20,Daylight,Afternoon,2,41.0,Minor
+Snow,Single Carriageway,30,,Night,3,43.0,Serious
+,Dual Carriageway,50,Darkness - lights lit,Night,2,56.0,Serious
+Rain,Dual Carriageway,20,Darkness - lights lit,Afternoon,1,76.0,Serious
+Rain,One Way,40,Darkness - lights lit,Evening,2,76.0,Fatal
+Fog,Slip Road,20,,Afternoon,2,39.0,Minor
+Clear,Single Carriageway,50,Daylight,Evening,5,47.0,Minor
+Clear,Slip Road,60,Daylight,Afternoon,1,63.0,Minor
+Clear,One Way,60,Darkness - no lighting,Afternoon,2,76.0,Fatal
+Fog,Single Carriageway,50,Daylight,Afternoon,2,45.0,Serious
+Clear,Single Carriageway,30,Darkness - no lighting,Morning,4,63.0,Serious
+Fog,Slip Road,30,Darkness - lights lit,Evening,2,,Fatal
+Windy,Roundabout,60,Darkness - lights lit,Morning,2,67.0,Fatal
+Clear,Dual Carriageway,60,Dawn/Dusk,Afternoon,5,42.0,Fatal
+Fog,Roundabout,50,Daylight,Night,1,36.0,Minor
+Rain,Slip Road,30,Darkness - lights lit,Morning,3,54.0,Serious
+Snow,Dual Carriageway,60,Daylight,Evening,1,35.0,Serious
+Clear,Roundabout,30,Darkness - no lighting,Afternoon,4,43.0,Serious
+Fog,Dual Carriageway,60,Darkness - lights lit,Morning,1,41.0,Serious
+Snow,Single Carriageway,20,Daylight,Night,2,56.0,Minor
+Windy,Roundabout,40,Darkness - lights lit,Morning,4,54.0,Fatal
+Fog,Dual Carriageway,70,Darkness - lights lit,Evening,1,68.0,Fatal
+Rain,Dual Carriageway,20,Daylight,Morning,4,39.0,Minor
+Rain,Dual Carriageway,70,Darkness - lights lit,Night,3,45.0,Serious
+Snow,Roundabout,60,Darkness - lights lit,Night,1,,Serious
+Rain,One Way,40,Darkness - lights lit,Evening,2,75.0,Serious
+Clear,Roundabout,40,Darkness - lights lit,Night,4,19.0,Fatal
+Windy,Slip Road,60,Darkness - no lighting,Afternoon,5,26.0,Fatal
+Fog,Roundabout,60,Darkness - lights lit,Night,4,31.0,Fatal
+Fog,Dual Carriageway,30,,Afternoon,5,72.0,Fatal
+Clear,Single Carriageway,60,Darkness - lights lit,Morning,2,32.0,Serious
+Fog,Roundabout,50,Daylight,Afternoon,3,,Serious
+Clear,Roundabout,60,Dawn/Dusk,Afternoon,5,35.0,Serious
+Fog,Dual Carriageway,50,Darkness - no lighting,Morning,3,27.0,Fatal
+Clear,Single Carriageway,60,Dawn/Dusk,Night,4,64.0,Serious
+Fog,Single Carriageway,30,Dawn/Dusk,Afternoon,2,21.0,Serious
+Windy,Slip Road,50,Dawn/Dusk,Night,5,,Fatal
+Clear,Roundabout,20,Daylight,Morning,4,74.0,Serious
+Windy,Single Carriageway,50,Daylight,Evening,1,30.0,Serious
+Rain,Single Carriageway,30,Daylight,Night,4,66.0,Serious
+Snow,One Way,70,Darkness - no lighting,Night,3,42.0,Fatal
+Fog,One Way,50,Daylight,Evening,2,24.0,Serious
+Rain,Single Carriageway,60,Daylight,Evening,2,21.0,Serious
+Fog,Slip Road,60,Dawn/Dusk,Morning,4,23.0,Fatal
+Snow,Single Carriageway,70,Daylight,Night,1,79.0,Serious
+Rain,Dual Carriageway,30,Darkness - lights lit,Night,3,32.0,Serious
+Clear,Roundabout,40,Daylight,Morning,4,71.0,Serious
+Fog,Slip Road,60,Darkness - no lighting,Night,4,30.0,Fatal
+Snow,Dual Carriageway,20,Darkness - no lighting,Afternoon,2,,Serious
+Fog,Slip Road,30,Darkness - lights lit,Afternoon,3,72.0,Serious
+Fog,Dual Carriageway,50,Darkness - no lighting,Afternoon,1,57.0,Serious
+Rain,Roundabout,50,Darkness - no lighting,Night,2,20.0,Serious
+Snow,Roundabout,20,Dawn/Dusk,Afternoon,4,52.0,Serious
+Clear,One Way,60,Darkness - lights lit,Afternoon,2,64.0,Serious
+Rain,Dual Carriageway,30,Dawn/Dusk,Morning,2,72.0,Serious
+Clear,One Way,20,Dawn/Dusk,Morning,5,33.0,Serious
+Clear,Dual Carriageway,60,Daylight,Evening,2,63.0,Minor
+Clear,One Way,30,Darkness - lights lit,Evening,2,52.0,Serious
+Clear,Roundabout,50,Daylight,Evening,3,22.0,Minor
+Fog,Slip Road,30,Daylight,Evening,2,32.0,Serious
+Clear,One Way,70,Dawn/Dusk,Morning,1,45.0,Serious
+Rain,Dual Carriageway,40,Darkness - no lighting,Morning,4,52.0,Serious
+Clear,Dual Carriageway,30,Darkness - lights lit,Morning,3,54.0,Minor
+Clear,Roundabout,40,,Afternoon,2,53.0,Serious
+Clear,Dual Carriageway,30,Dawn/Dusk,Afternoon,1,64.0,Minor
+Clear,Single Carriageway,40,Dawn/Dusk,Evening,4,78.0,Fatal
+Rain,Slip Road,70,Dawn/Dusk,Afternoon,3,73.0,Fatal
+Fog,One Way,50,Dawn/Dusk,Night,1,64.0,Serious
+Rain,Slip Road,60,Dawn/Dusk,Morning,2,26.0,Serious
+Rain,Roundabout,40,Dawn/Dusk,Evening,5,57.0,Fatal
+Clear,One Way,70,Darkness - no lighting,Evening,5,,Serious
+Snow,One Way,40,Daylight,Night,3,45.0,Serious
+Rain,Single Carriageway,50,Darkness - no lighting,Afternoon,1,30.0,Serious
+Rain,Roundabout,40,Darkness - lights lit,Evening,4,,Fatal
+Clear,Dual Carriageway,70,,Afternoon,1,60.0,Serious
+Clear,Single Carriageway,70,Dawn/Dusk,Afternoon,5,72.0,Fatal
+Clear,Single Carriageway,20,Darkness - no lighting,Night,3,58.0,Serious
+Clear,Slip Road,50,Daylight,Evening,2,79.0,Serious
+Rain,Slip Road,20,Darkness - lights lit,Afternoon,1,52.0,Serious
+Rain,Slip Road,50,Darkness - no lighting,Afternoon,5,66.0,Fatal
+Rain,Single Carriageway,40,Daylight,Night,4,61.0,Serious
+Fog,Dual Carriageway,70,,Night,3,29.0,Fatal
+Snow,One Way,20,Darkness - lights lit,Afternoon,2,,Fatal
+Fog,Slip Road,40,Darkness - no lighting,Night,1,79.0,Fatal
+Windy,Dual Carriageway,70,,Afternoon,4,34.0,Fatal
+Clear,Roundabout,50,Darkness - no lighting,Evening,2,49.0,Serious
+Clear,Slip Road,70,Daylight,Morning,5,37.0,Serious
+Clear,One Way,40,Darkness - no lighting,Night,5,32.0,Serious
+Rain,Roundabout,20,Daylight,Morning,4,31.0,Serious
+Snow,Roundabout,20,,Afternoon,5,70.0,Fatal
+,One Way,70,,Afternoon,3,73.0,Fatal
+Windy,Slip Road,40,Darkness - lights lit,Afternoon,4,21.0,Fatal
+Clear,Single Carriageway,30,Darkness - lights lit,Morning,5,77.0,Serious
+Windy,One Way,50,Darkness - no lighting,Afternoon,1,22.0,Fatal
+Clear,One Way,50,Daylight,Night,5,54.0,Serious
+Clear,One Way,40,Darkness - lights lit,Evening,3,19.0,Serious
+Rain,Roundabout,30,Darkness - lights lit,Evening,2,64.0,Serious
+Clear,Dual Carriageway,20,Darkness - no lighting,Night,2,28.0,Minor
+Clear,Single Carriageway,60,Darkness - no lighting,Evening,5,52.0,Serious
+Clear,Slip Road,60,Darkness - no lighting,Morning,2,49.0,Serious
+Snow,Slip Road,40,Darkness - no lighting,Afternoon,5,52.0,Fatal
+Rain,Dual Carriageway,30,Darkness - no lighting,Afternoon,3,49.0,Serious
+Clear,One Way,30,Dawn/Dusk,Afternoon,2,47.0,Minor
+Rain,Single Carriageway,50,Darkness - no lighting,Morning,1,37.0,Serious
+Fog,Slip Road,20,Daylight,Morning,5,43.0,Serious
+Clear,Slip Road,70,Darkness - lights lit,Morning,2,43.0,Serious
+Rain,One Way,30,Daylight,Night,3,24.0,Serious
+Clear,Dual Carriageway,70,Daylight,Morning,3,72.0,Serious
+Clear,Single Carriageway,60,Dawn/Dusk,Evening,1,53.0,Serious
+Fog,Dual Carriageway,70,Darkness - no lighting,Night,3,78.0,Fatal
+Clear,Dual Carriageway,20,Darkness - lights lit,Night,3,48.0,Minor
+Rain,Single Carriageway,20,,Night,2,42.0,Minor
+Fog,Single Carriageway,70,Darkness - no lighting,Morning,5,18.0,Fatal
+Clear,Slip Road,40,Darkness - no lighting,Night,4,28.0,Serious
+Rain,Slip Road,30,Dawn/Dusk,Morning,3,38.0,Serious
+,Single Carriageway,40,Dawn/Dusk,Morning,3,33.0,Serious
+Windy,Roundabout,70,,Night,4,23.0,Fatal
+Rain,Slip Road,30,Darkness - lights lit,Afternoon,3,59.0,Serious
+Snow,Roundabout,50,Daylight,Afternoon,2,20.0,Serious
+Rain,Single Carriageway,40,Dawn/Dusk,Night,2,53.0,Serious
+Clear,Slip Road,40,Dawn/Dusk,Afternoon,4,54.0,Serious
+Rain,Dual Carriageway,70,Dawn/Dusk,Evening,3,48.0,Serious
+Windy,Single Carriageway,60,Daylight,Evening,3,27.0,Serious
+Rain,One Way,70,Daylight,Morning,5,17.0,Fatal
+Snow,Roundabout,40,Dawn/Dusk,Afternoon,3,41.0,Serious
+Snow,Single Carriageway,30,Dawn/Dusk,Evening,2,58.0,Serious
+Clear,Single Carriageway,60,Darkness - no lighting,Night,1,68.0,Serious
+Clear,Slip Road,70,Dawn/Dusk,Afternoon,1,40.0,Serious
+Rain,Slip Road,70,Darkness - lights lit,Evening,1,69.0,Fatal
+,Slip Road,40,Darkness - lights lit,Evening,1,59.0,Serious
+Snow,One Way,40,Dawn/Dusk,Night,3,72.0,Fatal
+Windy,Slip Road,50,Daylight,Morning,3,79.0,Serious
+Clear,Single Carriageway,70,Darkness - no lighting,Night,5,33.0,Fatal
+Clear,Slip Road,40,Daylight,Morning,3,24.0,Minor
+Fog,Dual Carriageway,20,Dawn/Dusk,Evening,1,75.0,Serious
+Clear,Slip Road,60,Darkness - lights lit,Morning,4,61.0,Fatal
+,One Way,20,Darkness - no lighting,Evening,4,,Serious
+Rain,Dual Carriageway,60,Daylight,Evening,2,68.0,Serious
+Fog,Single Carriageway,70,Daylight,Afternoon,2,34.0,Serious
+Clear,Single Carriageway,50,Dawn/Dusk,Morning,3,43.0,Minor
+Rain,Roundabout,40,Darkness - no lighting,Morning,4,38.0,Fatal
+Rain,Dual Carriageway,40,Darkness - lights lit,Morning,1,32.0,Serious
+Rain,Roundabout,40,Dawn/Dusk,Night,1,18.0,Serious
+Clear,Dual Carriageway,70,Darkness - no lighting,Afternoon,1,21.0,Serious
+Fog,Dual Carriageway,60,Daylight,Afternoon,3,,Serious
+Snow,One Way,40,Dawn/Dusk,Afternoon,3,19.0,Serious
+Clear,Roundabout,20,Daylight,Night,5,43.0,Minor
+Clear,One Way,40,,Morning,1,70.0,Minor
+Clear,Dual Carriageway,70,Dawn/Dusk,Morning,1,33.0,Minor
+Rain,Single Carriageway,50,Dawn/Dusk,Morning,3,32.0,Serious
+Rain,Dual Carriageway,20,Dawn/Dusk,Afternoon,3,22.0,Serious
+Rain,One Way,40,Dawn/Dusk,Afternoon,5,67.0,Serious
+Clear,Roundabout,40,Dawn/Dusk,Evening,5,23.0,Serious
+Clear,Roundabout,30,Daylight,Night,2,66.0,Serious
+Rain,One Way,60,Darkness - lights lit,Night,4,30.0,Fatal
+Rain,Roundabout,20,Darkness - lights lit,Afternoon,1,54.0,Serious
+Windy,Slip Road,30,Dawn/Dusk,Evening,1,56.0,Minor
+Clear,Single Carriageway,50,Daylight,Morning,5,31.0,Serious
+Fog,Single Carriageway,60,Darkness - lights lit,Afternoon,5,63.0,Fatal
+Rain,Single Carriageway,20,Darkness - lights lit,Night,2,63.0,Serious
+Rain,Roundabout,40,Darkness - lights lit,Night,4,64.0,Fatal
+Fog,Roundabout,20,Daylight,Night,2,49.0,Serious
+Fog,Dual Carriageway,40,Dawn/Dusk,Morning,4,59.0,Fatal
+Windy,Dual Carriageway,60,Dawn/Dusk,Night,1,43.0,Serious
+Clear,Single Carriageway,40,Dawn/Dusk,Morning,2,45.0,Serious
+Clear,Slip Road,50,Darkness - no lighting,Morning,5,73.0,Fatal
+Fog,Dual Carriageway,70,,Morning,2,,Fatal
+Rain,Dual Carriageway,40,Darkness - no lighting,Afternoon,2,21.0,Fatal
+Clear,Roundabout,50,Daylight,Morning,1,45.0,Minor
+Clear,Slip Road,70,Darkness - lights lit,Evening,5,48.0,Serious
+Clear,Single Carriageway,60,,Night,5,76.0,Fatal
+Snow,Dual Carriageway,60,Daylight,Afternoon,3,69.0,Fatal
+Clear,Slip Road,20,Daylight,Night,3,22.0,Minor
+Clear,Slip Road,50,Dawn/Dusk,Morning,3,18.0,Serious
+Clear,Single Carriageway,50,Dawn/Dusk,Afternoon,1,,Minor
+Clear,Slip Road,30,Darkness - no lighting,Evening,2,62.0,Serious
+Clear,Slip Road,30,Darkness - no lighting,Morning,5,59.0,Serious
+Rain,Slip Road,70,Daylight,Night,5,20.0,Fatal
+Clear,Dual Carriageway,70,Darkness - no lighting,Evening,2,72.0,Fatal
+Snow,Single Carriageway,30,Darkness - lights lit,Morning,5,45.0,Fatal
+Clear,Slip Road,70,Daylight,Evening,2,75.0,Serious
+Rain,Slip Road,40,Daylight,Morning,1,41.0,Minor
+Snow,Dual Carriageway,30,Darkness - lights lit,Afternoon,1,25.0,Serious
+Fog,Single Carriageway,50,Dawn/Dusk,Morning,1,72.0,Serious
+Rain,Roundabout,40,Dawn/Dusk,Afternoon,2,19.0,Serious
+,Dual Carriageway,70,Darkness - lights lit,Morning,2,42.0,Serious
+Clear,Single Carriageway,60,,Morning,4,64.0,Fatal
+Fog,Slip Road,20,Darkness - no lighting,Night,5,59.0,Fatal
+Windy,Single Carriageway,30,,Evening,5,43.0,Serious
+Fog,Single Carriageway,60,Darkness - no lighting,Evening,4,52.0,Fatal
+Rain,Single Carriageway,70,Darkness - lights lit,Evening,4,48.0,Fatal
+Fog,Roundabout,50,Darkness - no lighting,Morning,1,17.0,Serious
+Rain,Single Carriageway,20,Darkness - lights lit,Morning,4,73.0,Fatal
+Clear,Roundabout,60,Darkness - no lighting,Morning,2,69.0,Serious
+Rain,Slip Road,20,Darkness - no lighting,Afternoon,3,70.0,Serious
+Windy,Roundabout,30,Dawn/Dusk,Afternoon,2,32.0,Serious
+Clear,Slip Road,70,Darkness - lights lit,Night,4,67.0,Fatal
+Fog,Slip Road,50,Darkness - no lighting,Morning,5,64.0,Fatal
+Clear,Roundabout,70,Daylight,Evening,2,27.0,Minor
+Rain,Dual Carriageway,20,Darkness - no lighting,Evening,5,42.0,Fatal
+Clear,One Way,60,Darkness - no lighting,Night,2,56.0,Fatal
+Rain,Single Carriageway,30,Daylight,Evening,5,79.0,Serious
+Fog,One Way,30,Darkness - lights lit,Night,2,71.0,Fatal
+Clear,Single Carriageway,70,Dawn/Dusk,Morning,5,17.0,Serious
+Fog,Single Carriageway,60,Dawn/Dusk,Evening,3,42.0,Serious
+Fog,Slip Road,60,Dawn/Dusk,Morning,1,44.0,Serious
+Windy,Single Carriageway,20,Daylight,Afternoon,2,69.0,Serious
+Clear,Single Carriageway,70,Darkness - no lighting,Evening,3,74.0,Fatal
+,Roundabout,70,Darkness - lights lit,Afternoon,1,25.0,Serious
+Clear,One Way,40,Darkness - no lighting,Evening,2,76.0,Serious
+,Roundabout,70,Dawn/Dusk,Morning,3,75.0,Serious
+,Single Carriageway,30,Darkness - no lighting,Night,3,60.0,Serious
+Rain,Slip Road,20,Daylight,Morning,3,38.0,Minor
+Snow,Roundabout,60,Daylight,Morning,4,24.0,Fatal
+Rain,Roundabout,70,Darkness - lights lit,Morning,5,74.0,Fatal
+Rain,Dual Carriageway,20,Darkness - lights lit,Evening,1,65.0,Minor
+Clear,Single Carriageway,70,Dawn/Dusk,Night,5,58.0,Fatal
+Fog,Slip Road,60,Darkness - lights lit,Afternoon,5,43.0,Fatal
+Clear,Roundabout,50,Darkness - no lighting,Morning,5,55.0,Fatal
+Snow,Roundabout,60,Daylight,Evening,3,35.0,Fatal
+Fog,Slip Road,60,Daylight,Afternoon,5,41.0,Fatal
+Fog,Single Carriageway,60,Daylight,Morning,4,54.0,Fatal
+Clear,Dual Carriageway,70,Darkness - lights lit,Afternoon,2,37.0,Serious
+Clear,Roundabout,40,Daylight,Morning,3,40.0,Serious
+Clear,Dual Carriageway,60,Daylight,Afternoon,1,,Minor
+Clear,One Way,30,Daylight,Afternoon,2,76.0,Serious
+Clear,Single Carriageway,30,Dawn/Dusk,Night,2,76.0,Serious
+Windy,One Way,20,Dawn/Dusk,Night,2,35.0,Serious
+Rain,One Way,40,Darkness - lights lit,Morning,5,66.0,Fatal
+Clear,One Way,20,Daylight,Evening,5,63.0,Minor
+Clear,Single Carriageway,30,Darkness - lights lit,Night,3,18.0,Serious
+Rain,Single Carriageway,30,Daylight,Afternoon,5,30.0,Serious
+Rain,Slip Road,50,Daylight,Night,5,69.0,Serious
+Rain,Dual Carriageway,60,Daylight,Night,5,48.0,Serious
+Windy,Dual Carriageway,30,Darkness - lights lit,Morning,3,58.0,Serious
+Rain,Slip Road,70,Darkness - lights lit,Night,3,48.0,Serious
+Windy,Slip Road,70,Daylight,Night,4,44.0,Serious
+Snow,One Way,20,Darkness - no lighting,Afternoon,4,64.0,Fatal
+Clear,Slip Road,20,Darkness - lights lit,Night,4,55.0,Serious
+Windy,Roundabout,60,Dawn/Dusk,Afternoon,4,56.0,Serious
+Clear,Dual Carriageway,60,Darkness - lights lit,Night,2,58.0,Fatal
+Snow,Slip Road,50,Daylight,Night,2,63.0,Serious
+Clear,Roundabout,40,Darkness - no lighting,Evening,4,56.0,Fatal
+Snow,Roundabout,20,,Night,4,29.0,Serious
+Snow,Roundabout,60,Dawn/Dusk,Afternoon,1,,Serious
+Snow,Roundabout,20,Darkness - lights lit,Afternoon,2,24.0,Serious
+Fog,One Way,60,Darkness - lights lit,Morning,1,31.0,Fatal
+Clear,Roundabout,30,Daylight,Morning,1,42.0,Minor
+Clear,One Way,20,Daylight,Evening,5,28.0,Serious
+Rain,One Way,30,Dawn/Dusk,Afternoon,3,59.0,Minor
+Clear,Roundabout,20,Darkness - no lighting,Afternoon,2,67.0,Serious
+Fog,Dual Carriageway,40,Dawn/Dusk,Afternoon,4,62.0,Serious
+Clear,Roundabout,50,Darkness - no lighting,Evening,4,43.0,Serious
+Windy,Roundabout,70,Darkness - lights lit,Afternoon,3,34.0,Fatal
+Rain,Roundabout,70,Darkness - no lighting,Morning,2,61.0,Fatal
+Snow,Dual Carriageway,70,Darkness - no lighting,Evening,4,52.0,Fatal
+Clear,Single Carriageway,30,Darkness - lights lit,Morning,4,79.0,Fatal
+Snow,Single Carriageway,60,Darkness - lights lit,Morning,5,65.0,Fatal
+Windy,One Way,70,Darkness - lights lit,Evening,1,67.0,Fatal
+Rain,One Way,40,Dawn/Dusk,Night,4,43.0,Fatal
+,Dual Carriageway,70,Darkness - lights lit,Night,2,25.0,Fatal
+Fog,Slip Road,20,Daylight,Morning,3,71.0,Serious
+Clear,Single Carriageway,30,Darkness - lights lit,Night,5,,Serious
+Rain,One Way,20,Darkness - lights lit,Afternoon,2,17.0,Fatal
+Clear,Single Carriageway,20,Darkness - lights lit,Evening,5,23.0,Serious
+Clear,Dual Carriageway,20,,Morning,1,42.0,Serious
+Clear,Dual Carriageway,50,Dawn/Dusk,Afternoon,4,23.0,Serious
+Clear,Slip Road,50,Darkness - lights lit,Night,2,68.0,Serious
+Clear,Slip Road,60,Dawn/Dusk,Afternoon,3,23.0,Serious
+Clear,Dual Carriageway,30,Daylight,Night,1,24.0,Minor
+Windy,One Way,40,Daylight,Morning,1,32.0,Minor
+Rain,Single Carriageway,40,Darkness - lights lit,Afternoon,5,19.0,Fatal
+Windy,Roundabout,40,Daylight,Evening,1,,Minor
+Rain,Slip Road,20,Dawn/Dusk,Morning,2,26.0,Minor
+Clear,Roundabout,50,Darkness - no lighting,Afternoon,5,66.0,Fatal
+Rain,One Way,30,Darkness - lights lit,Afternoon,1,23.0,Serious
+Rain,Slip Road,20,Daylight,Night,3,37.0,Minor
+Clear,Roundabout,50,Dawn/Dusk,Morning,2,69.0,Serious
+Rain,One Way,50,Dawn/Dusk,Morning,3,78.0,Serious
+,Single Carriageway,70,Daylight,Morning,3,53.0,Serious
+Rain,One Way,70,Dawn/Dusk,Morning,5,47.0,Fatal
+Fog,Slip Road,30,Dawn/Dusk,Night,4,39.0,Fatal
+Clear,Dual Carriageway,30,Darkness - lights lit,Evening,5,73.0,Serious
+Clear,Single Carriageway,30,Dawn/Dusk,Morning,2,43.0,Minor
+Fog,Roundabout,20,Daylight,Night,2,72.0,Serious
+Rain,Slip Road,60,Darkness - lights lit,Evening,5,38.0,Fatal
+Clear,Dual Carriageway,30,Daylight,Evening,4,55.0,Minor
+Windy,One Way,70,Darkness - no lighting,Night,5,73.0,Fatal
+Clear,Dual Carriageway,60,Daylight,Morning,2,78.0,Serious
+Fog,Slip Road,20,Daylight,Evening,4,43.0,Serious
+Windy,Slip Road,60,Darkness - lights lit,Morning,2,70.0,Fatal
+Clear,Dual Carriageway,40,Dawn/Dusk,Morning,4,65.0,Serious
+Clear,One Way,60,Daylight,Afternoon,4,20.0,Fatal
+Clear,Dual Carriageway,30,Darkness - lights lit,Morning,5,40.0,Serious
+Clear,Slip Road,20,Darkness - no lighting,Afternoon,5,39.0,Serious
+,Slip Road,30,Darkness - lights lit,Evening,5,64.0,Serious
+Fog,Roundabout,70,Darkness - lights lit,Night,4,35.0,Fatal
+Clear,Roundabout,40,Dawn/Dusk,Afternoon,4,,Serious
+Rain,Single Carriageway,70,Daylight,Night,2,19.0,Serious
+Windy,Slip Road,30,Darkness - no lighting,Evening,3,43.0,Serious
+Snow,Roundabout,30,Darkness - lights lit,Morning,5,19.0,Fatal
+Rain,Dual Carriageway,30,Daylight,Evening,2,44.0,Minor
+Clear,One Way,50,Daylight,Night,2,,Serious
+Rain,Dual Carriageway,40,Darkness - lights lit,Evening,1,33.0,Serious
+Rain,One Way,30,Daylight,Morning,5,47.0,Serious
+Rain,Roundabout,30,Darkness - lights lit,Evening,2,26.0,Serious
+Clear,Single Carriageway,70,Darkness - lights lit,Morning,1,65.0,Serious
+Snow,Dual Carriageway,70,Darkness - lights lit,Afternoon,5,38.0,Fatal
+Rain,Dual Carriageway,30,Darkness - no lighting,Night,4,46.0,Serious
+Clear,Dual Carriageway,20,Darkness - lights lit,Morning,1,78.0,Serious
+Clear,One Way,50,Dawn/Dusk,Morning,4,65.0,Serious
+Rain,Roundabout,70,Daylight,Evening,3,37.0,Serious
+Snow,Dual Carriageway,20,Darkness - no lighting,Afternoon,3,52.0,Serious
+Fog,Dual Carriageway,50,Daylight,Morning,3,69.0,Serious
+Fog,Single Carriageway,30,Darkness - no lighting,Afternoon,3,39.0,Serious
+,Single Carriageway,40,Dawn/Dusk,Afternoon,2,54.0,Minor
+Rain,Roundabout,60,Darkness - no lighting,Evening,3,28.0,Fatal
+Rain,Roundabout,60,Darkness - no lighting,Morning,2,41.0,Fatal
+Clear,Slip Road,30,Darkness - no lighting,Evening,2,70.0,Serious
+Clear,Single Carriageway,70,Daylight,Night,5,73.0,Serious
+Fog,Slip Road,20,Darkness - lights lit,Night,2,36.0,Serious
+Clear,One Way,40,Daylight,Morning,2,65.0,Minor
+Rain,Slip Road,50,Darkness - lights lit,Afternoon,3,65.0,Serious
+Clear,Dual Carriageway,30,Daylight,Morning,2,58.0,Minor
+Clear,Slip Road,40,Dawn/Dusk,Morning,4,23.0,Serious
+Clear,Roundabout,40,Dawn/Dusk,Night,3,45.0,Serious
+Windy,One Way,70,Darkness - no lighting,Night,1,64.0,Fatal
+Snow,Dual Carriageway,50,Dawn/Dusk,Afternoon,3,45.0,Serious
+Windy,Slip Road,40,Darkness - no lighting,Afternoon,2,29.0,Serious
+Rain,One Way,70,Darkness - lights lit,Morning,4,19.0,Fatal
+Clear,One Way,20,Dawn/Dusk,Evening,3,18.0,Minor
+Rain,Dual Carriageway,70,Darkness - lights lit,Morning,4,32.0,Fatal
+Rain,Slip Road,20,Daylight,Afternoon,1,46.0,Minor
+Snow,One Way,20,Darkness - lights lit,Evening,1,54.0,Serious
+Clear,One Way,40,Daylight,Night,5,,Serious
+Rain,Single Carriageway,70,Darkness - lights lit,Afternoon,5,,Fatal
+Clear,One Way,20,Darkness - lights lit,Afternoon,3,23.0,Serious
+Clear,Single Carriageway,50,Dawn/Dusk,Evening,5,21.0,Fatal
+Fog,Slip Road,40,Darkness - lights lit,Afternoon,4,72.0,Fatal
+Rain,Slip Road,70,Dawn/Dusk,Afternoon,5,23.0,Fatal
+Clear,Slip Road,70,Dawn/Dusk,Afternoon,4,50.0,Serious
+,Roundabout,60,Darkness - no lighting,Afternoon,5,,Fatal
+Rain,Slip Road,70,Darkness - no lighting,Afternoon,5,48.0,Fatal
+Fog,One Way,40,Daylight,Afternoon,5,,Serious
+Snow,Dual Carriageway,50,Darkness - lights lit,Afternoon,2,29.0,Fatal
+Windy,Single Carriageway,70,Daylight,Afternoon,2,46.0,Serious
+Fog,Roundabout,60,Darkness - lights lit,Night,5,41.0,Fatal
+Clear,Slip Road,40,Darkness - no lighting,Afternoon,4,37.0,Serious
+Fog,Slip Road,20,Darkness - no lighting,Night,3,76.0,Serious
+Rain,Dual Carriageway,30,Darkness - lights lit,Night,1,75.0,Serious
+Clear,Dual Carriageway,30,Darkness - lights lit,Morning,2,37.0,Serious
+Snow,Roundabout,20,Darkness - no lighting,Morning,5,44.0,Serious
+Clear,Single Carriageway,70,Darkness - no lighting,Night,1,64.0,Serious
+Windy,Slip Road,30,Daylight,Night,2,74.0,Minor
+Rain,Roundabout,30,Darkness - no lighting,Afternoon,3,36.0,Serious
+Rain,One Way,20,Darkness - lights lit,Morning,4,50.0,Serious
+Fog,One Way,70,Daylight,Evening,5,21.0,Fatal
+Snow,Roundabout,70,Darkness - lights lit,Morning,3,34.0,Fatal
+Rain,Slip Road,20,Dawn/Dusk,Night,2,76.0,Serious
+Rain,Roundabout,70,,Night,5,55.0,Serious
+Clear,Slip Road,70,Darkness - lights lit,Afternoon,1,59.0,Serious
+Rain,Dual Carriageway,40,Darkness - no lighting,Afternoon,4,73.0,Fatal
+Clear,Roundabout,40,Dawn/Dusk,Morning,2,,Serious
+Fog,Slip Road,20,Darkness - lights lit,Afternoon,4,27.0,Fatal
+Rain,Roundabout,50,Daylight,Evening,5,70.0,Serious
+Fog,Roundabout,30,,Evening,3,33.0,Serious
+Clear,Slip Road,40,Dawn/Dusk,Afternoon,4,64.0,Serious
+Clear,Slip Road,30,Daylight,Evening,1,61.0,Minor
+Fog,Single Carriageway,60,Dawn/Dusk,Evening,2,38.0,Fatal
+Clear,Roundabout,20,Darkness - lights lit,Morning,1,53.0,Minor
+Clear,One Way,50,Darkness - no lighting,Evening,4,36.0,Serious
+Clear,Roundabout,60,Darkness - no lighting,Night,3,64.0,Serious
+Windy,Roundabout,60,Darkness - lights lit,Night,3,76.0,Fatal
+Fog,Slip Road,70,Darkness - lights lit,Morning,1,70.0,Fatal
+Clear,Roundabout,60,Darkness - lights lit,Afternoon,5,70.0,Fatal
+Clear,Roundabout,20,Daylight,Morning,5,64.0,Minor
+Clear,One Way,40,Dawn/Dusk,Afternoon,3,64.0,Serious
+Fog,Slip Road,20,Dawn/Dusk,Afternoon,1,62.0,Minor
+Fog,Roundabout,40,Dawn/Dusk,Afternoon,1,22.0,Serious
+Clear,Dual Carriageway,60,Darkness - lights lit,Afternoon,1,50.0,Serious
+Clear,Single Carriageway,60,Dawn/Dusk,Afternoon,4,79.0,Serious
+Clear,One Way,50,Darkness - lights lit,Morning,5,30.0,Serious
+Fog,Roundabout,40,Daylight,Afternoon,5,64.0,Fatal
+Fog,Dual Carriageway,60,Darkness - no lighting,Evening,4,39.0,Fatal
+Clear,Roundabout,70,Darkness - lights lit,Evening,2,78.0,Serious
+Clear,Roundabout,30,,Afternoon,4,36.0,Serious
+Clear,Slip Road,50,Darkness - no lighting,Evening,1,29.0,Minor
+Windy,Slip Road,20,Darkness - no lighting,Night,4,63.0,Serious
+Clear,Slip Road,50,Daylight,Morning,1,60.0,Minor
+Fog,Dual Carriageway,30,Dawn/Dusk,Morning,3,57.0,Serious
+Rain,Roundabout,40,Darkness - lights lit,Afternoon,1,48.0,Serious
+Clear,Single Carriageway,20,Dawn/Dusk,Afternoon,5,42.0,Serious
+Clear,One Way,20,Darkness - lights lit,Night,4,66.0,Serious
+Clear,Slip Road,40,Daylight,Afternoon,1,69.0,Minor
+Rain,Slip Road,50,Darkness - no lighting,Evening,2,30.0,Serious
+Fog,Roundabout,60,Daylight,Night,3,68.0,Serious
+Rain,Roundabout,50,Darkness - no lighting,Evening,2,73.0,Fatal
+Rain,Dual Carriageway,30,Dawn/Dusk,Morning,2,52.0,Serious
+Clear,Dual Carriageway,70,Dawn/Dusk,Evening,2,24.0,Serious
+Windy,Slip Road,60,Daylight,Morning,3,56.0,Serious
+Fog,Roundabout,50,Darkness - no lighting,Evening,3,38.0,Fatal
+Clear,Single Carriageway,70,Daylight,Morning,3,38.0,Serious
+Windy,One Way,70,Darkness - no lighting,Afternoon,3,32.0,Serious
+Rain,Roundabout,40,Darkness - no lighting,Evening,2,43.0,Serious
+Rain,Roundabout,30,Dawn/Dusk,Morning,5,72.0,Serious
+Fog,Dual Carriageway,30,Dawn/Dusk,Evening,5,76.0,Fatal
+Snow,One Way,30,Darkness - no lighting,Night,3,77.0,Fatal
+Fog,Slip Road,60,Darkness - no lighting,Afternoon,4,76.0,Fatal
+Clear,Roundabout,20,Darkness - no lighting,Morning,1,26.0,Minor
+Clear,Slip Road,60,Dawn/Dusk,Night,4,41.0,Fatal
+Windy,Roundabout,50,Dawn/Dusk,Evening,4,,Serious
+Clear,Slip Road,70,Darkness - lights lit,Night,4,,Fatal
+Clear,One Way,70,Darkness - no lighting,Evening,5,43.0,Fatal
+Rain,Dual Carriageway,20,Darkness - lights lit,Afternoon,1,33.0,Minor
+Rain,One Way,50,Darkness - no lighting,Night,4,49.0,Fatal
+Rain,Single Carriageway,20,Dawn/Dusk,Afternoon,3,47.0,Serious
+Windy,Dual Carriageway,70,Darkness - lights lit,Morning,5,66.0,Fatal
+Clear,One Way,60,Darkness - lights lit,Evening,3,58.0,Serious
+Clear,Single Carriageway,30,Daylight,Evening,3,42.0,Minor
+Clear,Roundabout,70,,Afternoon,4,37.0,Fatal
+Snow,Roundabout,40,Dawn/Dusk,Afternoon,3,52.0,Serious
+Rain,Slip Road,30,Daylight,Morning,1,17.0,Minor
+Clear,Dual Carriageway,70,Daylight,Night,3,20.0,Serious
+Snow,Roundabout,60,Darkness - no lighting,Evening,4,20.0,Fatal
+Snow,Dual Carriageway,20,Daylight,Evening,3,42.0,Serious
+Snow,Roundabout,30,Darkness - no lighting,Morning,5,20.0,Fatal
+Windy,Slip Road,60,Daylight,Morning,5,65.0,Serious
+Clear,One Way,50,Darkness - no lighting,Afternoon,5,25.0,Serious
+Fog,Slip Road,40,Dawn/Dusk,Afternoon,2,46.0,Fatal
+Rain,Single Carriageway,30,Darkness - no lighting,Night,5,67.0,Serious
+Snow,Roundabout,20,Darkness - no lighting,Morning,5,61.0,Serious
+Fog,Single Carriageway,50,Darkness - lights lit,Night,2,20.0,Fatal
+Fog,Single Carriageway,60,Dawn/Dusk,Morning,5,21.0,Fatal
+Fog,Dual Carriageway,40,Dawn/Dusk,Evening,4,77.0,Fatal
+,Roundabout,20,Dawn/Dusk,Morning,5,61.0,Serious
+Rain,Single Carriageway,60,Daylight,Morning,5,39.0,Serious
+Windy,One Way,60,Darkness - lights lit,Evening,2,32.0,Fatal
+Windy,Single Carriageway,30,Dawn/Dusk,Morning,4,38.0,Serious
+Clear,One Way,30,Daylight,Night,3,53.0,Minor
+Clear,Dual Carriageway,20,Daylight,Afternoon,1,24.0,Minor
+Clear,Single Carriageway,70,Daylight,Afternoon,4,64.0,Serious
+Fog,Slip Road,70,Darkness - lights lit,Night,3,78.0,Fatal
+Snow,Dual Carriageway,60,Daylight,Evening,4,49.0,Serious
+Clear,One Way,30,,Morning,3,71.0,Serious
+Rain,Dual Carriageway,40,Darkness - no lighting,Night,3,76.0,Fatal
+Snow,Single Carriageway,40,Daylight,Afternoon,4,54.0,Serious
+Fog,Roundabout,60,,Afternoon,2,59.0,Fatal
+Rain,Roundabout,30,Daylight,Night,4,32.0,Serious
+Rain,One Way,20,Darkness - no lighting,Afternoon,4,21.0,Fatal
+Rain,One Way,20,Darkness - no lighting,Night,3,32.0,Serious
+Clear,Roundabout,20,Daylight,Afternoon,1,23.0,Minor
+Rain,One Way,40,Darkness - no lighting,Night,3,67.0,Fatal
+Fog,Dual Carriageway,30,Darkness - lights lit,Morning,5,17.0,Fatal
+Snow,Slip Road,30,Darkness - lights lit,Morning,4,25.0,Fatal
+Rain,Slip Road,40,Daylight,Morning,4,34.0,Serious
+Fog,Dual Carriageway,20,Darkness - lights lit,Morning,2,61.0,Serious
+Clear,Slip Road,20,Darkness - lights lit,Afternoon,3,74.0,Serious
+Rain,Single Carriageway,60,Dawn/Dusk,Evening,2,63.0,Serious
+Clear,Dual Carriageway,70,Daylight,Night,4,19.0,Serious
+Clear,One Way,50,Darkness - no lighting,Evening,3,40.0,Serious
+Fog,Dual Carriageway,70,Daylight,Afternoon,3,44.0,Fatal
+Windy,Roundabout,30,,Afternoon,5,26.0,Serious
+Clear,One Way,30,Dawn/Dusk,Evening,5,25.0,Minor
+Rain,Roundabout,30,Daylight,Evening,1,29.0,Minor
+Snow,One Way,70,Daylight,Afternoon,5,64.0,Fatal
+Clear,Slip Road,50,Darkness - lights lit,Afternoon,3,51.0,Serious
+Rain,Dual Carriageway,60,Darkness - lights lit,Night,5,70.0,Fatal
+Fog,Single Carriageway,70,Daylight,Morning,1,39.0,Serious
+Rain,One Way,50,Darkness - lights lit,Morning,4,63.0,Serious
+Clear,One Way,20,Darkness - lights lit,Night,5,33.0,Serious
+,Roundabout,20,Darkness - lights lit,Evening,3,62.0,Serious
+Fog,Slip Road,30,Darkness - lights lit,Afternoon,4,23.0,Fatal
+Rain,Roundabout,40,Darkness - lights lit,Evening,3,68.0,Fatal
+Clear,Roundabout,30,Dawn/Dusk,Morning,4,32.0,Serious
+Fog,Slip Road,40,Darkness - lights lit,Morning,3,69.0,Fatal
+Clear,Single Carriageway,50,Darkness - no lighting,Evening,5,,Serious
+Fog,Roundabout,20,Daylight,Morning,5,52.0,Serious
+Clear,Roundabout,70,Dawn/Dusk,Afternoon,1,79.0,Serious
+Windy,One Way,40,Dawn/Dusk,Night,4,36.0,Serious
+Clear,Slip Road,50,Darkness - lights lit,Evening,1,40.0,Minor
+Clear,Dual Carriageway,20,Daylight,Afternoon,2,63.0,Minor
+Clear,Single Carriageway,70,Darkness - no lighting,Afternoon,5,21.0,Fatal
+Clear,Single Carriageway,40,Darkness - lights lit,Morning,4,,Serious
+Snow,Slip Road,30,Daylight,Afternoon,1,22.0,Serious
+Windy,One Way,30,Darkness - lights lit,Evening,1,44.0,Minor
+Clear,One Way,30,Darkness - lights lit,Afternoon,2,75.0,Serious
+Rain,Slip Road,50,Darkness - lights lit,Night,1,78.0,Serious
+Fog,One Way,30,Darkness - lights lit,Afternoon,3,21.0,Fatal
+Snow,Single Carriageway,60,Darkness - lights lit,Afternoon,5,65.0,Fatal
+Rain,Single Carriageway,20,Darkness - lights lit,Night,1,55.0,Serious
+Clear,Dual Carriageway,50,Darkness - lights lit,Afternoon,1,54.0,Serious
+Rain,Slip Road,70,Darkness - no lighting,Afternoon,2,18.0,Fatal
+Fog,Roundabout,30,Dawn/Dusk,Morning,3,59.0,Serious
+Clear,Roundabout,20,Darkness - no lighting,Evening,1,55.0,Minor
+Rain,Dual Carriageway,40,Darkness - lights lit,Morning,5,70.0,Fatal
+Clear,Dual Carriageway,30,Darkness - lights lit,Evening,5,37.0,Serious
+Fog,One Way,20,Darkness - no lighting,Night,1,56.0,Serious
+Clear,Dual Carriageway,60,Darkness - no lighting,Night,3,53.0,Fatal
+,Dual Carriageway,40,Dawn/Dusk,Night,5,75.0,Fatal
+Rain,Roundabout,60,Darkness - no lighting,Evening,5,,Fatal
+Rain,One Way,70,Dawn/Dusk,Evening,3,70.0,Fatal
+Clear,Dual Carriageway,20,Darkness - lights lit,Evening,3,64.0,Minor
+Rain,Dual Carriageway,60,,Night,1,62.0,Serious
+Rain,One Way,70,Daylight,Evening,4,28.0,Serious
+Rain,Slip Road,20,Daylight,Afternoon,2,33.0,Minor
+Rain,One Way,20,,Morning,4,53.0,Serious
+Fog,Roundabout,60,Darkness - lights lit,Night,4,62.0,Fatal
+Snow,Slip Road,20,Daylight,Morning,5,54.0,Serious
+Clear,Single Carriageway,30,Darkness - no lighting,Afternoon,3,31.0,Minor
+Snow,One Way,20,Darkness - no lighting,Evening,5,23.0,Fatal
+Rain,Roundabout,50,Daylight,Morning,2,30.0,Serious
+,Slip Road,70,Darkness - no lighting,Afternoon,1,,Fatal
+Clear,One Way,20,Dawn/Dusk,Afternoon,2,17.0,Serious
+Clear,Dual Carriageway,50,Darkness - lights lit,Morning,5,54.0,Serious
+Fog,One Way,20,Daylight,Night,5,19.0,Serious
+Fog,Single Carriageway,20,Daylight,Morning,5,,Serious
+Fog,One Way,60,Darkness - lights lit,Night,5,60.0,Fatal
+Rain,Slip Road,30,Darkness - no lighting,Evening,4,47.0,Serious
+Rain,Slip Road,70,Darkness - lights lit,Night,1,59.0,Fatal
+Clear,One Way,30,Darkness - lights lit,Evening,4,29.0,Serious
+Clear,Slip Road,40,Darkness - no lighting,Morning,5,64.0,Serious
+Rain,Dual Carriageway,60,Darkness - lights lit,Evening,3,79.0,Fatal
+Clear,One Way,60,Darkness - no lighting,Afternoon,4,,Fatal
+Clear,Dual Carriageway,30,Darkness - no lighting,Evening,5,79.0,Serious
+Rain,Dual Carriageway,60,Darkness - lights lit,Night,5,33.0,Fatal
+Fog,Roundabout,30,Dawn/Dusk,Night,1,33.0,Minor
+Windy,One Way,60,Darkness - no lighting,Night,2,77.0,Fatal
+Windy,Slip Road,20,Darkness - lights lit,Evening,4,27.0,Fatal
+Rain,Dual Carriageway,30,Darkness - no lighting,Night,4,36.0,Serious
+Rain,Roundabout,30,Dawn/Dusk,Night,4,26.0,Serious
+Rain,One Way,50,Dawn/Dusk,Afternoon,5,45.0,Serious
+Fog,One Way,60,Daylight,Evening,1,64.0,Serious
+Clear,Single Carriageway,60,Darkness - no lighting,Afternoon,5,50.0,Fatal
+Rain,Single Carriageway,30,Darkness - no lighting,Night,5,33.0,Serious
+Snow,Dual Carriageway,20,Darkness - lights lit,Night,3,70.0,Fatal
+Clear,Single Carriageway,20,Darkness - no lighting,Night,1,,Minor
+Rain,Dual Carriageway,70,Daylight,Evening,4,68.0,Serious
+Rain,Slip Road,20,Dawn/Dusk,Morning,2,58.0,Minor
+Clear,Dual Carriageway,60,Dawn/Dusk,Night,4,29.0,Serious
+Clear,Single Carriageway,50,Daylight,Night,5,60.0,Serious
+Clear,Slip Road,30,Darkness - no lighting,Night,1,63.0,Minor
+Clear,Single Carriageway,40,Darkness - no lighting,Night,1,,Serious
+Clear,Dual Carriageway,50,Daylight,Evening,1,43.0,Minor
+Snow,Roundabout,40,Darkness - lights lit,Morning,3,70.0,Fatal
+Clear,One Way,50,Dawn/Dusk,Morning,4,69.0,Serious
+Rain,Single Carriageway,20,Daylight,Morning,3,42.0,Minor
+Clear,Dual Carriageway,60,Daylight,Night,2,44.0,Serious
+Windy,Slip Road,40,Darkness - no lighting,Night,5,29.0,Fatal
+Clear,Single Carriageway,50,Dawn/Dusk,Morning,3,28.0,Serious
+Rain,Single Carriageway,60,,Morning,3,60.0,Fatal
+Snow,One Way,40,Daylight,Night,5,44.0,Serious
+Snow,Dual Carriageway,30,Darkness - lights lit,Night,1,18.0,Fatal
+Clear,Roundabout,50,Dawn/Dusk,Afternoon,5,53.0,Serious
+Snow,Slip Road,30,Daylight,Afternoon,4,73.0,Serious
+Rain,Dual Carriageway,20,Daylight,Afternoon,5,73.0,Serious
+Rain,Slip Road,30,Darkness - lights lit,Morning,1,50.0,Minor
+Clear,Single Carriageway,30,Daylight,Evening,5,,Serious
+Clear,One Way,70,Daylight,Night,3,74.0,Serious
+Fog,One Way,50,Dawn/Dusk,Afternoon,2,78.0,Serious
+Rain,Roundabout,20,Dawn/Dusk,Evening,3,68.0,Serious
+Rain,One Way,30,,Night,2,61.0,Serious
+Fog,Single Carriageway,60,Darkness - no lighting,Evening,5,45.0,Fatal
+Fog,Roundabout,40,Darkness - lights lit,Morning,4,51.0,Fatal
+Clear,Dual Carriageway,30,,Morning,5,27.0,Serious
+Rain,One Way,20,Darkness - no lighting,Morning,1,64.0,Serious
+Clear,Roundabout,30,Darkness - no lighting,Afternoon,5,49.0,Serious
+Fog,Single Carriageway,40,Darkness - lights lit,Night,2,67.0,Fatal
+Fog,Slip Road,20,Darkness - lights lit,Morning,3,27.0,Serious
+Windy,Slip Road,50,Daylight,Afternoon,4,25.0,Serious
+Clear,Single Carriageway,20,Darkness - no lighting,Afternoon,5,30.0,Serious
+Clear,Single Carriageway,50,Dawn/Dusk,Afternoon,5,79.0,Fatal
+Clear,Slip Road,20,Darkness - lights lit,Afternoon,3,25.0,Minor
